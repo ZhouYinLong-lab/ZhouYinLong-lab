@@ -197,9 +197,9 @@ nannahelper 新手教程文档——从零开始的入门指南。
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ZhouYinLong-lab&theme=radical&no-frame=true&margin-w=4&column=7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=ZhouYinLong-lab&theme=flat&no-frame=true&margin-w=4&column=7" />
-    <img src="https://github-profile-trophy.vercel.app/?username=ZhouYinLong-lab&theme=radical&no-frame=true&margin-w=4&column=7" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ZhouYinLong-lab&theme=radical&no-frame=true&margin-w=4&column=6" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=ZhouYinLong-lab&theme=flat&no-frame=true&margin-w=4&column=6" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ZhouYinLong-lab&theme=radical&no-frame=true&margin-w=4&column=6" />
   </picture>
 </p>
 
@@ -215,9 +215,11 @@ nannahelper 新手教程文档——从零开始的入门指南。
   </picture>
 </p>
 
-<details align="center">
+<div align="center">
+
+<details>
 <summary><b>🐍 Contribution Snake · 贪吃蛇贡献图</b></summary>
-<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZhouYinLong-lab/ZhouYinLong-lab/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZhouYinLong-lab/ZhouYinLong-lab/output/github-contribution-grid-snake.svg" />
@@ -225,7 +227,9 @@ nannahelper 新手教程文档——从零开始的入门指南。
 </picture>
 </details>
 
----
+</div>
+
+<hr>
 
 <p align="center">
   <samp>
