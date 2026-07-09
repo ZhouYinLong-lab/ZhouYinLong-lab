@@ -188,7 +188,7 @@ nannahelper 新手教程文档——从零开始的入门指南。
   <tr>
     <td align="center"><b>📦 Repos</b><br/>24+</td>
     <td align="center"><b>⭐ Stars</b><br/>43</td>
-    <td align="center"><b>📝 Commits</b><br/>1,121</td>
+    <td align="center"><b>📝 Commits</b><br/>877</td>
     <td align="center"><b>🔀 Merged PRs</b><br/>14</td>
     <td align="center"><b>👥 Followers</b><br/>8</td>
   </tr>
