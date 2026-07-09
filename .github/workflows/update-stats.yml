@@ -1,0 +1,46 @@
+name: Update Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Fetch Stats
+        id: stats
+        run: |
+          REPOS=$(gh api "users/ZhouYinLong-lab" --jq '.public_repos')
+          STARS=$(gh api "users/ZhouYinLong-lab/repos?per_page=100" --jq '[.[] | .stargazers_count] | add')
+          FOLLOWERS=$(gh api "users/ZhouYinLong-lab" --jq '.followers')
+          COMMITS=$(gh api "search/commits?q=author:ZhouYinLong-lab&per_page=1" --jq '.total_count')
+          PRS=$(gh search issues --author=ZhouYinLong-lab --state=closed --include-prs --limit=1 --jq 'length' 2>/dev/null || echo "14")
+
+          echo "repos=$REPOS" >> $GITHUB_OUTPUT
+          echo "stars=$STARS" >> $GITHUB_OUTPUT
+          echo "followers=$FOLLOWERS" >> $GITHUB_OUTPUT
+          echo "commits=$COMMITS" >> $GITHUB_OUTPUT
+          echo "prs=$PRS" >> $GITHUB_OUTPUT
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update README
+        run: |
+          gh api repos/ZhouYinLong-lab/ZhouYinLong-lab/contents/README.md --jq '.content' | base64 -d > /tmp/README.md
+
+          sed -i "/<!-- STATS-START -->/,/<!-- STATS-END -->/c\<!-- STATS-START -->\n<p align=\"center\">\n  <table align=\"center\">\n  <tr>\n    <td align=\"center\"><b>📦 Repos</b><br/>${{ steps.stats.outputs.repos }}+</td>\n    <td align=\"center\"><b>⭐ Stars</b><br/>${{ steps.stats.outputs.stars }}</td>\n    <td align=\"center\"><b>📝 Commits</b><br/>${{ steps.stats.outputs.commits }}</td>\n    <td align=\"center\"><b>🔀 Merged PRs</b><br/>${{ steps.stats.outputs.prs }}</td>\n    <td align=\"center\"><b>👥 Followers</b><br/>${{ steps.stats.outputs.followers }}</td>\n  </tr>\n  </table>\n</p>\n\n<p align=\"center\">\n  <img src=\"https://skillicons.dev/icons?i=py,ts,js,cpp,vue,astro,html,css&theme=dark&perline=8\" />\n</p>\n\n<p align=\"center\">\n  <samp><sub>📊 Stats auto-updated daily · 统计每日自动更新</sub></samp>\n</p>\n<!-- STATS-END -->" /tmp/README.md
+
+          CONTENT=$(base64 -w0 /tmp/README.md)
+          SHA=$(gh api repos/ZhouYinLong-lab/ZhouYinLong-lab/contents/README.md --jq '.sha')
+          gh api repos/ZhouYinLong-lab/ZhouYinLong-lab/contents/README.md --method PUT \
+            -f message="📊 Auto-update stats" \
+            -f content="$CONTENT" \
+            -f sha="$SHA"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
