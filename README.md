@@ -182,26 +182,28 @@ nannahelper 新手教程文档——从零开始的入门指南。
 
 <h3 align="center">📊 GitHub Stats · 统计</h3>
 
+<!-- STATS-START -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ZhouYinLong-lab&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ZhouYinLong-lab&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZhouYinLong-lab&show_icons=true&theme=radical&hide_border=true" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhouYinLong-lab&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhouYinLong-lab&layout=compact&theme=default&hide_border=true&langs_count=8" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhouYinLong-lab&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-  </picture>
+  <table align="center">
+  <tr>
+    <td align="center"><b>📦 Repos</b><br/>24+</td>
+    <td align="center"><b>⭐ Stars</b><br/>43</td>
+    <td align="center"><b>📝 Commits</b><br/>1,121</td>
+    <td align="center"><b>🔀 Merged PRs</b><br/>14</td>
+    <td align="center"><b>👥 Followers</b><br/>8</td>
+  </tr>
+  </table>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ZhouYinLong-lab&theme=radical&no-frame=true&margin-w=4&column=6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=ZhouYinLong-lab&theme=flat&no-frame=true&margin-w=4&column=6" />
-    <img src="https://github-profile-trophy.vercel.app/?username=ZhouYinLong-lab&theme=radical&no-frame=true&margin-w=4&column=6" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,vue,astro,html,css&theme=dark&perline=8" />
 </p>
+
+<p align="center">
+  <samp><sub>📊 Stats auto-updated daily · 统计每日自动更新</sub></samp>
+</p>
+<!-- STATS-END -->
+
 
 ---
 
