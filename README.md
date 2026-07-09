@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://zylatent.com"><img src="https://img.shields.io/badge/Blog-zylatent.com-FF6B6B?style=flat-square&logo=astro&logoColor=white" /></a>
   <a href="mailto:liuhanzhi514@gmail.com"><img src="https://img.shields.io/badge/Email-liuhanzhi514%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://space.bilibili.com/511060666"><img src="https://img.shields.io/badge/Bilibili-%E5%88%98%E5%AF%92%E5%BF%97-00A1D6?style=flat-square&logo=bilibili&logoColor=white" /></a>
+  <a href="https://space.bilibili.com/511060666"><img src="https://img.shields.io/badge/Bilibili-%E5%91%A8%E7%8E%84%E6%B8%8A-00A1D6?style=flat-square&logo=bilibili&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=ZhouYinLong-lab&style=flat-square&color=blueviolet" />
 </p>
 
