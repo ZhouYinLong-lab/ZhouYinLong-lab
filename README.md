@@ -209,13 +209,23 @@ nannahelper 新手教程文档——从零开始的入门指南。
 
 <h3 align="center">🎯 Fun Zone · 摸鱼区</h3>
 
+<!-- QUOTE-START -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true" />
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=8000&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%92%AC+Daily+Random+Quote+%7C+%E6%AF%8F%E6%97%A5%E9%9A%8F%E6%9C%BA%E5%90%8D%E8%A8%80" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=8000&color=0969DA&center=true&vCenter=true&width=700&lines=%F0%9F%92%AC+Daily+Random+Quote+%7C+%E6%AF%8F%E6%97%A5%E9%9A%8F%E6%9C%BA%E5%90%8D%E8%A8%80" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=8000&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%92%AC+Daily+Random+Quote+%7C+%E6%AF%8F%E6%97%A5%E9%9A%8F%E6%9C%BA%E5%90%8D%E8%A8%80" />
   </picture>
 </p>
+
+<p align="center">
+  <samp>
+    <i>"Talk is cheap. Show me the code."</i><br/>
+    <sub>— Linus Torvalds</sub><br/>
+    <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
+  </samp>
+</p>
+<!-- QUOTE-END -->
 
 <div align="center">
 

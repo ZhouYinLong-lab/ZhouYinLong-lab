@@ -1,0 +1,81 @@
+name: Update Random Quote
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pick random quote & update README
+        run: |
+          python3 <<'PYEOF'
+          import json, re
+          from datetime import date
+
+          # Read quotes from the bundled JSON
+          with open('quotes.json', encoding='utf-8') as f:
+              quotes = json.load(f)
+
+          # Deterministic "daily random" — day-of-year modulo quote count
+          day = date.today().timetuple().tm_yday
+          quote = quotes[day % len(quotes)]
+
+          # Read current README
+          with open('README.md', encoding='utf-8') as f:
+              content = f.read()
+
+          # Build the new quote block with escaped special chars
+          text = quote['text'].replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
+          author = quote['author']
+
+          new_section = f'''<!-- QUOTE-START -->
+          <p align="center">
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=8000&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%92%AC+Daily+Random+Quote+%7C+%E6%AF%8F%E6%97%A5%E9%9A%8F%E6%9C%BA%E5%90%8D%E8%A8%80" />
+              <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=8000&color=0969DA&center=true&vCenter=true&width=700&lines=%F0%9F%92%AC+Daily+Random+Quote+%7C+%E6%AF%8F%E6%97%A5%E9%9A%8F%E6%9C%BA%E5%90%8D%E8%A8%80" />
+              <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=8000&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%92%AC+Daily+Random+Quote+%7C+%E6%AF%8F%E6%97%A5%E9%9A%8F%E6%9C%BA%E5%90%8D%E8%A8%80" />
+            </picture>
+          </p>
+
+          <p align="center">
+            <samp>
+              <i>"{text}"</i><br/>
+              <sub>— {author}</sub><br/>
+              <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
+            </samp>
+          </p>
+          <!-- QUOTE-END -->'''
+
+          # Replace between markers (collapse any extra whitespace from the f-string)
+          new_section = '\n'.join(line.strip() for line in new_section.strip().splitlines())
+
+          pattern = r'<!-- QUOTE-START -->.*?<!-- QUOTE-END -->'
+          if not re.search(pattern, content, flags=re.DOTALL):
+              print("ERROR: QUOTE markers not found in README.md!")
+              exit(1)
+
+          content = re.sub(pattern, new_section, content, flags=re.DOTALL)
+
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(content)
+
+          print(f"✅ Quote updated: \"{quote['text'][:60]}...\" — {quote['author']}")
+          PYEOF
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "💬 Update random quote — $(date +%Y-%m-%d)"
+          git push
