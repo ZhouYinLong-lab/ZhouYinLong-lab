@@ -111,22 +111,22 @@ NJU 学生的一站式个人链接页——轻量、优雅、实用。
 <tr>
 <td width="50%">
 
-### 🤖 [Bipedal-RL-Lab](https://github.com/ZhouYinLong-lab/Bipedal-RL-Lab) ⭐2
-*Bipedal robot RL with PyBullet + PPO*
+### ⚔️ [GengBlade-CV](https://github.com/ZhouYinLong-lab/GengBlade-CV) ⭐2
+*Computer vision project for blade/shape detection & analysis*
 
-双足机器人强化学习实验室——PPO 训练 + PyBullet 仿真。
+计算机视觉项目——刀片/形状检测与分析。
 
-`Python` `PyTorch` `RL`
+`Python` `Computer Vision` `Detection`
 
 </td>
 <td width="50%">
 
-### 🤖 [Learn_llm](https://github.com/ZhouYinLong-lab/Learn_llm) ⭐2
-*LLM learning notes & experiments*
+### 🐕📔 [Dog-Diary](https://github.com/ZhouYinLong-lab/Dog-Diary) ⭐1
+*AI-powered personal diary with mood tracking*
 
-LLM 学习笔记与实验——Transformers、Prompt Engineering 实践。
+AI 驱动的心情日记——自然语言记账本，记录每一天。
 
-`Jupyter` `LLM` `Transformers`
+`TypeScript` `AI` `Diary`
 
 </td>
 </tr>
