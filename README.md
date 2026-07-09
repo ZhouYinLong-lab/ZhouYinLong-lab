@@ -89,16 +89,6 @@
 <tr>
 <td width="50%">
 
-### 🔗 [NanE](https://github.com/ZhouYinLong-lab/NanE) ⭐4
-*A link-in-bio & personal landing platform for NJU students*
-
-NJU 学生的一站式个人链接页——轻量、优雅、实用。
-
-`JavaScript` `Landing Page`
-
-</td>
-<td width="50%">
-
 ### 🐕 [Dog-Skills](https://github.com/ZhouYinLong-lab/Dog-Skills) ⭐3
 *48 Claude Code skills covering the full dev lifecycle*
 
@@ -107,16 +97,26 @@ NJU 学生的一站式个人链接页——轻量、优雅、实用。
 `Claude Code` `Skills` `Dev Tools`
 
 </td>
+<td width="50%">
+
+### 🔗 [NanE](https://github.com/ZhouYinLong-lab/NanE) ⭐4
+*A link-in-bio & personal landing platform for NJU students*
+
+NJU 学生的一站式个人链接页——轻量、优雅、实用。
+
+`JavaScript` `Landing Page`
+
+</td>
 </tr>
 <tr>
 <td width="50%">
 
-### ⚔️ [GengBlade-CV](https://github.com/ZhouYinLong-lab/GengBlade-CV) ⭐2
-*Computer vision project for blade/shape detection & analysis*
+### 🚀 [my-astro-blog](https://github.com/ZhouYinLong-lab/my-astro-blog) ⭐2
+*Personal blog built with Astro*
 
-计算机视觉项目——刀片/形状检测与分析。
+基于 Astro 的个人技术博客——周玄渊 aka 刘寒志的数字花园。
 
-`Python` `Computer Vision` `Detection`
+`Astro` `Blog` `SSG`
 
 </td>
 <td width="50%">
@@ -124,7 +124,7 @@ NJU 学生的一站式个人链接页——轻量、优雅、实用。
 ### 🐕📔 [Dog-Diary](https://github.com/ZhouYinLong-lab/Dog-Diary) ⭐1
 *AI-powered personal diary with mood tracking*
 
-AI 驱动的心情日记——自然语言记账本，记录每一天。
+AI 驱动的心情日记——自然语言记录每一天的心情与故事。
 
 `TypeScript` `AI` `Diary`
 
@@ -133,44 +133,22 @@ AI 驱动的心情日记——自然语言记账本，记录每一天。
 <tr>
 <td width="50%">
 
-### 🎮 [GoDot-A_Star-Ball](https://github.com/ZhouYinLong-lab/GoDot-A_Star-Ball) ⭐2
-*A\* pathfinding ball maze with procedural levels*
+### 🎓 [NanNa_MOOC](https://github.com/ZhouYinLong-lab/NanNa_MOOC)
+*Online course platform built with Vue.js for NJU students*
 
-A* 寻路 + 程序化生成 + 弹球迷宫——好玩就完事了。
+NJU 学生的在线课程平台——Vue.js 驱动的慕课系统。
 
-`Godot` `JavaScript` `Game`
-
-</td>
-<td width="50%">
-
-### 💌 [OnlyToYou](https://github.com/ZhouYinLong-lab/OnlyToYou) ⭐2
-*End-to-end encrypted messaging for two*
-
-端到端加密的双人私密聊天——只对你说的悄悄话。
-
-`JavaScript` `Crypto` `Privacy`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🗺️ [HuaiHai-h5-map](https://github.com/ZhouYinLong-lab/HuaiHai-h5-map) ⭐1
-*Interactive historical battle H5 map*
-
-淮海战役 H5 交互地图——移动端历史战役可视化。
-
-`TypeScript` `H5` `History`
+`Vue.js` `Education` `MOOC`
 
 </td>
 <td width="50%">
 
-### 🏠 [ZhouYinLong-lab.github.io](https://github.com/ZhouYinLong-lab/ZhouYinLong-lab.github.io) ⭐2
-*Personal homepage & portfolio*
+### 📖 [docs](https://github.com/nannahelper/docs) ⭐3
+*新手教程文档*
 
-个人主页 & 作品集——NJU 学生的数字名片。
+nannahelper 新手教程文档——从零开始的入门指南。
 
-`HTML` `Portfolio`
+`Documentation` `Guide` `Tutorial`
 
 </td>
 </tr>
