@@ -167,11 +167,11 @@ nannahelper 新手教程文档——从零开始的入门指南。
 </p>
 
 <p align="center">
-  <a href="https://github.com/apache/hertzbeat"><img src="https://img.shields.io/badge/Apache_HertzBeat-MERGED-28A745?style=for-the-badge&logo=apache&logoColor=white" /></a>
-  <a href="https://github.com/modelcontextprotocol/modelcontextprotocol"><img src="https://img.shields.io/badge/ModelContextProtocol-MERGED-6E40C9?style=for-the-badge&logo=protocolsdotio&logoColor=white" /></a>
-  <a href="https://github.com/supabase/supabase"><img src="https://img.shields.io/badge/Supabase-MERGED-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /></a>
-  <a href="https://github.com/mui/material-ui"><img src="https://img.shields.io/badge/MUI-MERGED-007FFF?style=for-the-badge&logo=mui&logoColor=white" /></a>
-  <a href="https://github.com/just-the-docs/just-the-docs"><img src="https://img.shields.io/badge/Just_the_Docs-MERGED-6F42C1?style=for-the-badge&logo=jekyll&logoColor=white" /></a>
+  <a href="https://github.com/apache/hertzbeat/pull/4187"><img src="https://img.shields.io/badge/Apache_HertzBeat-MERGED-28A745?style=for-the-badge&logo=apache&logoColor=white" /></a>
+  <a href="https://github.com/modelcontextprotocol/modelcontextprotocol/pull/3019"><img src="https://img.shields.io/badge/ModelContextProtocol-MERGED-6E40C9?style=for-the-badge&logo=protocolsdotio&logoColor=white" /></a>
+  <a href="https://github.com/supabase/supabase/pull/47658"><img src="https://img.shields.io/badge/Supabase-MERGED-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /></a>
+  <a href="https://github.com/mui/material-ui/pull/48785"><img src="https://img.shields.io/badge/MUI-MERGED-007FFF?style=for-the-badge&logo=mui&logoColor=white" /></a>
+  <a href="https://github.com/just-the-docs/just-the-docs/pull/1836"><img src="https://img.shields.io/badge/Just_the_Docs-MERGED-6F42C1?style=for-the-badge&logo=jekyll&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -188,7 +188,7 @@ nannahelper 新手教程文档——从零开始的入门指南。
   <tr>
     <td align="center"><b>📦 Repos</b><br/>24+</td>
     <td align="center"><b>⭐ Stars</b><br/>43</td>
-    <td align="center"><b>📝 Commits</b><br/>877</td>
+    <td align="center"><b>📝 Commits</b><br/>1,121</td>
     <td align="center"><b>🔀 Merged PRs</b><br/>14</td>
     <td align="center"><b>👥 Followers</b><br/>8</td>
   </tr>
