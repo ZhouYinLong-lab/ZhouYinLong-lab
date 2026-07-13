@@ -186,7 +186,7 @@ nannahelper 新手教程文档——从零开始的入门指南。
 <p align="center">
   <table align="center">
   <tr>
-    <td align="center"><b>📦 Repos</b><br/>36+</td>
+    <td align="center"><b>📦 Repos</b><br/>44+</td>
     <td align="center"><b>⭐ Stars</b><br/>54</td>
     <td align="center"><b>📝 Commits</b><br/>938</td>
     <td align="center"><b>🔀 Merged PRs</b><br/>14</td>
