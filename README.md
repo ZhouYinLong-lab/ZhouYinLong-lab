@@ -220,8 +220,8 @@ nannahelper 新手教程文档——从零开始的入门指南。
 
 <p align="center">
 <samp>
-<i>"Deleted code is debugged code."</i><br/>
-<sub>— Jeff Sickel</sub><br/>
+<i>"If at first you don't succeed, call it version 1.0."</i><br/>
+<sub>— Unknown</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
 </p>
