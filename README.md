@@ -114,7 +114,7 @@ NJU 学生的一站式个人链接页——轻量、优雅、实用。
 ### 🚀 [my-astro-blog](https://github.com/ZhouYinLong-lab/my-astro-blog) ⭐2
 *Personal blog built with Astro*
 
-基于 Astro 的个人技术博客——周玄渊 aka 刘寒志的数字花园。
+基于 Astro 的个人技术博客——周玄渊 aka 柳含知的数字花园。
 
 `Astro` `Blog` `SSG`
 
