@@ -1,251 +1,120 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hey%2C+I'm+LiuHanZhi+(ZhouXuanYuan);%F0%9F%8F%AB+NJU+Student+%7C+%F0%9F%A4%96+AI%2FRL+Explorer;%F0%9F%94%A7+Full-Stack+Builder+%7C+%F0%9F%8E%AF+OSS+Contributor" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=0969DA&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hey%2C+I'm+LiuHanZhi+(ZhouXuanYuan);%F0%9F%8F%AB+NJU+Student+%7C+%F0%9F%A4%96+AI%2FRL+Explorer;%F0%9F%94%A7+Full-Stack+Builder+%7C+%F0%9F%8E%AF+OSS+Contributor" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=0969DA&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hey%2C+I'm+LiuHanZhi+(ZhouXuanYuan);%F0%9F%8F%AB+NJU+Student+%7C+%F0%9F%A4%96+AI%2FRL+Explorer;%F0%9F%94%A7+Full-Stack+Builder+%7C+%F0%9F%8E%AF+OSS+Contributor" />
-</picture>
+<h1 align="center">柳含知 · Liu Hanzhi</h1>
 
 <p align="center">
-  <samp>
-    🏫 NJU · 🤖 AI/RL · 🕸️ Full-Stack · 🎨 Creative Coding · 📝 Open Source
-  </samp>
+  <strong>Nanjing University Student · AI / RL · Full-Stack · Developer Tools · Open Source</strong>
 </p>
 
 <p align="center">
-  <a href="https://zylatent.com"><img src="https://img.shields.io/badge/Blog-zylatent.com-FF6B6B?style=flat-square&logo=astro&logoColor=white" /></a>
-  <a href="mailto:liuhanzhi514@gmail.com"><img src="https://img.shields.io/badge/Email-liuhanzhi514%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://space.bilibili.com/511060666"><img src="https://img.shields.io/badge/Bilibili-%E5%91%A8%E7%8E%84%E6%B8%8A-00A1D6?style=flat-square&logo=bilibili&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ZhouYinLong-lab&style=flat-square&color=blueviolet" />
+  用代码研究智能，也用代码做真正有人使用的产品。
+</p>
+
+<p align="center">
+  <a href="https://zylatent.com"><img src="https://img.shields.io/badge/Blog-zylatent.com-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="个人博客" /></a>
+  <a href="mailto:liuhanzhi514@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="联系邮箱" /></a>
+  <a href="https://space.bilibili.com/511060666"><img src="https://img.shields.io/badge/Bilibili-周玄渊-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
 </p>
 
 ---
 
-<h3 align="center">🧑‍💻 About Me · 关于我</h3>
+## 关于我
 
-<table align="center">
-<tr>
-<td width="50%">
+你好，我是 **柳含知（Liu Hanzhi）**，南京大学在读学生。本名 **Zhou Yinlong**；“柳含知”是我更常用的网络名字，“周玄渊”用于 Bilibili、微信等内容平台。
 
-**🇨🇳 中文**
+我关心的并不是某一个孤立的技术栈，而是如何把研究、工程与表达连接起来：
 
-🎓 南京大学在读学生，热爱用代码创造有趣的东西。
+- **智能系统**：强化学习、机器人控制、LLM 应用与 Prompt Engineering
+- **工程与开源**：全栈产品、开发者工具、Claude Code Skills 与开源协作
+- **创意技术**：游戏开发、交互叙事、创意编程与技术写作
 
-🔭 目前在捣鼓：
-- 🤖 强化学习 & 机器人控制
-- 📚 LLM 应用 & Prompt 工程
-- 🛠️ Claude Code Skills 生态
-- 🎮 游戏开发 & 创意编程
+> Build in public, learn in public.
 
-💡 信奉 **"Build in public, learn in public"**
+## 精选项目
 
-</td>
-<td width="50%">
+### 1. [Dog-Skills](https://github.com/ZhouYinLong-lab/Dog-Skills) — AI Skills 工具箱
 
-**🇺🇸 English**
+116 个 Claude Code Skills，覆盖开发、设计、写作、学习、商业与健康等场景，并提供使用指南与组合建议。
 
-🎓 NJU student who loves building fun stuff with code.
+`Claude Code` `AI Tools` `Automation` `Prompt Engineering`
 
-🔭 Currently hacking on:
-- 🤖 Reinforcement Learning & Robotics
-- 📚 LLM Apps & Prompt Engineering
-- 🛠️ Claude Code Skills Ecosystem
-- 🎮 Game Dev & Creative Coding
+### 2. [NanE](https://github.com/ZhouYinLong-lab/NanE) — 南京大学校园互助平台
 
-💡 I believe in **"Build in public, learn in public"**
-
-</td>
-</tr>
-</table>
-
----
-
-<h3 align="center">🛠️ Tech Stack · 技术栈</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyBullet-000000?style=for-the-badge&logo=robotframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
-<h3 align="center">🚀 Featured Projects · 精选项目</h3>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🐕 [Dog-Skills](https://github.com/ZhouYinLong-lab/Dog-Skills) ⭐4
-*116 Claude Code skills covering the full dev lifecycle*
-
-116 个 Claude Code 技能合集——覆盖开发、设计、写作、学习、商业、健康等领域。
-
-`Claude Code` `Skills` `AI Tools` `Prompt Engineering`
-
-</td>
-<td width="50%">
-
-### 🔗 [NanE](https://github.com/ZhouYinLong-lab/NanE) ⭐4
-*Campus mutual-aid platform for NJU students*
-
-NJU 校园互助平台——应急物品共享、审核发布、同楼栋优先匹配。
+面向 NJU 学生的校园互助项目，围绕应急物品共享、信息审核与同楼栋优先匹配展开。项目目前不再部署于服务器，仓库保留完整设计与实现。
 
 `JavaScript` `Node.js` `PostgreSQL` `PWA`
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+### 3. [HuaiHai-h5-map](https://github.com/ZhouYinLong-lab/HuaiHai-h5-map) — 淮海战役交互地图
 
-### 🗺️ [HuaiHai-h5-map](https://github.com/ZhouYinLong-lab/HuaiHai-h5-map) ⭐1
-*Interactive H5 map for the HuaiHai Campaign — digital humanities*
+以 16 个历史节点和三阶段时间线呈现淮海战役进程，将数字人文、移动端交互与 PWA 离线体验结合起来。
 
-淮海战役交互式 H5 地图——16 个历史节点、三阶段时间线、PWA 离线支持。
+`React` `TypeScript` `Tailwind CSS` `PWA`
 
-`React 18` `TypeScript` `Tailwind CSS` `PWA`
+### 4. [nannahelper/docs](https://github.com/nannahelper/docs) — 编程新手教程
 
-</td>
-<td width="50%">
-
-### 📖 [docs](https://github.com/nannahelper/docs) ⭐4
-*Zero-to-one programming tutorials for beginners*
-
-nannahelper 编程新手教程——20+ 技术主题，MkDocs + GitHub Actions 自动部署。
+面向初学者的零到一技术文档，覆盖 20+ 个主题，使用 MkDocs 构建并通过 GitHub Actions 自动发布。
 
 `MkDocs` `Documentation` `Tutorial` `CI/CD`
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+### 5. [Dog-LittleTools](https://github.com/ZhouYinLong-lab/Dog-LittleTools) — 开发者 CLI 小工具
 
-### 🐕 [Dog-LittleTools](https://github.com/ZhouYinLong-lab/Dog-LittleTools) 🆕
-*9 small Bash CLI tools for developers*
+9 个 Bash 工具组成的轻量工具箱，包括 Claude Code 费用估算、进程巡检、GPU 管理与秘密扫描。
 
-Dog CLI 工具箱——Claude Code 费用估算、进程巡检、GPU 管理、秘密扫描等 9 个实用工具。
+`Bash` `Shell` `CLI` `Developer Tools`
 
-`Bash` `Shell` `CLI` `Dev Tools`
+### 6. [my-astro-blog](https://github.com/ZhouYinLong-lab/my-astro-blog) — 个人技术博客
 
-</td>
-<td width="50%">
+基于 Astro 构建的个人数字花园，用于记录技术实践、项目复盘与持续学习。
 
-### 🚀 [my-astro-blog](https://github.com/ZhouYinLong-lab/my-astro-blog) ⭐2
-*Personal blog built with Astro*
+`Astro` `Blog` `Static Site Generation`
 
-基于 Astro 的个人技术博客——周玄渊 aka 柳含知的数字花园。
+## 开源贡献
 
-`Astro` `Blog` `SSG`
+我更看重可验证的具体改动，而不是贡献列表的长度。以下是几项有代表性的合并 PR：
 
-</td>
-</tr>
-</table>
+- [PPO-Balance-Bench #1](https://github.com/sealgua/PPO-Balance-Bench/pull/1)：改进物理环境渲染，引入多核并行训练并增加 Ultra 模型
+- [Apache HertzBeat #4187](https://github.com/apache/hertzbeat/pull/4187)：跨 16 个文件修正文档与代码注释中的 13 处问题
+- [Model Context Protocol #3019](https://github.com/modelcontextprotocol/modelcontextprotocol/pull/3019)：维护 Goose 集成文档链接
 
-<p align="center">
-  <i>...and 30+ more projects! · 还有 30+ 个项目等你探索！</i>
-</p>
+## 技术版图
 
----
+| 方向 | 技术与工具 |
+| --- | --- |
+| AI / RL | Python · PyTorch · PyBullet · Jupyter · LLM Applications |
+| Web Engineering | TypeScript · JavaScript · Vue · React · Node.js · Astro |
+| Systems & Creative Coding | C++ · Godot · Linux · Git · PWA |
+| Developer Experience | Claude Code · GitHub Actions · Documentation · Automation |
 
-<h3 align="center">🌟 Open Source Contributions · 开源贡献</h3>
-
-<p align="center">
-  <samp>Proud to have PRs merged into these awesome projects 🎉</samp>
-</p>
-
-<p align="center">
-  <a href="https://github.com/apache/hertzbeat/pull/4187"><img src="https://img.shields.io/badge/Apache_HertzBeat-MERGED-28A745?style=for-the-badge&logo=apache&logoColor=white" /></a>
-  <a href="https://github.com/modelcontextprotocol/modelcontextprotocol/pull/3019"><img src="https://img.shields.io/badge/ModelContextProtocol-MERGED-6E40C9?style=for-the-badge&logo=protocolsdotio&logoColor=white" /></a>
-  <a href="https://github.com/supabase/supabase/pull/47658"><img src="https://img.shields.io/badge/Supabase-MERGED-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /></a>
-  <a href="https://github.com/mui/material-ui/pull/48785"><img src="https://img.shields.io/badge/MUI-MERGED-007FFF?style=for-the-badge&logo=mui&logoColor=white" /></a>
-  <a href="https://github.com/just-the-docs/just-the-docs/pull/1836"><img src="https://img.shields.io/badge/Just_the_Docs-MERGED-6F42C1?style=for-the-badge&logo=jekyll&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <samp>Also contributed PRs to: <b>Vercel/Next.js</b> · <b>ESLint</b> · <b>Lodash</b> · <b>Apache ECharts</b> · <b>dromara/Sa-Token</b> · <b>dromara/Forest</b> · <b>Yargs</b> · <b>Langfuse</b> · <b>MCP Swift SDK</b></samp>
-</p>
-
----
-
-<h3 align="center">📊 GitHub Stats · 统计</h3>
+## GitHub 数据
 
 <!-- STATS-START -->
 <p align="center">
-  <table align="center">
-  <tr>
-    <td align="center"><b>📦 Repos</b><br/>45+</td>
-    <td align="center"><b>⭐ Stars</b><br/>57</td>
-    <td align="center"><b>📝 Commits</b><br/>942</td>
-    <td align="center"><b>🔀 Merged PRs</b><br/>14</td>
-    <td align="center"><b>👥 Followers</b><br/>10</td>
-  </tr>
-  </table>
+  <strong>37</strong> 公开仓库 · <strong>49</strong> Public Stars · <strong>1200</strong> 过去一年 Commits · <strong>14</strong> 合并 PR · <strong>10</strong> Followers
 </p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,vue,astro,html,css&theme=dark&perline=8" />
-</p>
-
-<p align="center">
-  <samp><sub>📊 Stats auto-updated daily · 统计每日自动更新</sub></samp>
-</p>
+<p align="center"><sub>由 GitHub Actions 每周更新，统计口径见工作流</sub></p>
 <!-- STATS-END -->
 
-
----
-
-<h3 align="center">🎯 Fun Zone · 摸鱼区</h3>
+<details>
+<summary><strong>一点个性：每日一句与贡献图</strong></summary>
 
 <!-- QUOTE-START -->
 <p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=8000&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%92%AC+Daily+Random+Quote+%7C+%E6%AF%8F%E6%97%A5%E9%9A%8F%E6%9C%BA%E5%90%8D%E8%A8%80" />
-<source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=8000&color=0969DA&center=true&vCenter=true&width=700&lines=%F0%9F%92%AC+Daily+Random+Quote+%7C+%E6%AF%8F%E6%97%A5%E9%9A%8F%E6%9C%BA%E5%90%8D%E8%A8%80" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=8000&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%92%AC+Daily+Random+Quote+%7C+%E6%AF%8F%E6%97%A5%E9%9A%8F%E6%9C%BA%E5%90%8D%E8%A8%80" />
-</picture>
-</p>
-
-<p align="center">
-<samp>
-<i>"A good programmer is someone who always looks both ways before crossing a one-way street."</i><br/>
-<sub>— Doug Linder</sub><br/>
-<sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
-</samp>
+  <i>“A good programmer is someone who always looks both ways before crossing a one-way street.”</i><br />
+  <sub>— Doug Linder · 每日更新</sub>
 </p>
 <!-- QUOTE-END -->
 
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZhouYinLong-lab/ZhouYinLong-lab/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZhouYinLong-lab/ZhouYinLong-lab/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/ZhouYinLong-lab/ZhouYinLong-lab/output/github-contribution-grid-snake.svg" alt="Contribution graph" />
+  </picture>
+</p>
 
-<details>
-<summary><b>🐍 Contribution Snake · 贪吃蛇贡献图</b></summary>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZhouYinLong-lab/ZhouYinLong-lab/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZhouYinLong-lab/ZhouYinLong-lab/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/ZhouYinLong-lab/ZhouYinLong-lab/output/github-contribution-grid-snake.svg" />
-</picture>
 </details>
 
-</div>
-
-<hr>
+---
 
 <p align="center">
-  <samp>
-    <b>⭐ Thanks for stopping by! · 感谢来访！</b><br/>
-    <sub>Last updated: July 2026 · Always building, always learning 🚀</sub>
-  </samp>
+  <strong>正在寻找实习、研究合作与有意义的开源协作机会。</strong><br />
+  <sub>如果你对 AI / RL、开发者工具或创意技术感兴趣，欢迎联系我。</sub>
 </p>

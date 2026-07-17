@@ -1,8 +1,8 @@
-name: Update Stats
+name: Update profile stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * 1"
   workflow_dispatch:
 
 permissions:
@@ -12,35 +12,82 @@ jobs:
   update-stats:
     runs-on: ubuntu-latest
     timeout-minutes: 5
+
     steps:
-      - name: Fetch Stats
+      - name: Read public GitHub metrics
         id: stats
-        run: |
-          REPOS=$(gh api "users/ZhouYinLong-lab" --jq '.public_repos')
-          STARS=$(gh api "users/ZhouYinLong-lab/repos?per_page=100" --jq '[.[] | .stargazers_count] | add')
-          FOLLOWERS=$(gh api "users/ZhouYinLong-lab" --jq '.followers')
-          COMMITS=$(gh api "search/commits?q=author:ZhouYinLong-lab&per_page=1" --jq '.total_count')
-          PRS=$(gh search issues --author=ZhouYinLong-lab --state=closed --include-prs --limit=1 --jq 'length' 2>/dev/null || echo "14")
-
-          echo "repos=$REPOS" >> $GITHUB_OUTPUT
-          echo "stars=$STARS" >> $GITHUB_OUTPUT
-          echo "followers=$FOLLOWERS" >> $GITHUB_OUTPUT
-          echo "commits=$COMMITS" >> $GITHUB_OUTPUT
-          echo "prs=$PRS" >> $GITHUB_OUTPUT
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Update README
+          PROFILE_LOGIN: ZhouYinLong-lab
         run: |
-          gh api repos/ZhouYinLong-lab/ZhouYinLong-lab/contents/README.md --jq '.content' | base64 -d > /tmp/README.md
+          repos=$(gh api "users/$PROFILE_LOGIN" --jq '.public_repos')
+          stars=$(gh api --paginate "users/$PROFILE_LOGIN/repos?per_page=100" \
+            --jq '.[].stargazers_count' | awk '{ total += $1 } END { print total + 0 }')
+          followers=$(gh api "users/$PROFILE_LOGIN" --jq '.followers')
+          query="query(\$login: String!) { user(login: \$login) { contributionsCollection { totalCommitContributions } } }"
+          commits=$(gh api graphql \
+            -f query="$query" \
+            -f login="$PROFILE_LOGIN" \
+            --jq '.data.user.contributionsCollection.totalCommitContributions')
+          merged_prs=$(gh api "search/issues?q=author:$PROFILE_LOGIN+is:pr+is:merged&per_page=1" \
+            --jq '.total_count')
 
-          sed -i "/<!-- STATS-START -->/,/<!-- STATS-END -->/c\<!-- STATS-START -->\n<p align=\"center\">\n  <table align=\"center\">\n  <tr>\n    <td align=\"center\"><b>📦 Repos</b><br/>${{ steps.stats.outputs.repos }}+</td>\n    <td align=\"center\"><b>⭐ Stars</b><br/>${{ steps.stats.outputs.stars }}</td>\n    <td align=\"center\"><b>📝 Commits</b><br/>${{ steps.stats.outputs.commits }}</td>\n    <td align=\"center\"><b>🔀 Merged PRs</b><br/>${{ steps.stats.outputs.prs }}</td>\n    <td align=\"center\"><b>👥 Followers</b><br/>${{ steps.stats.outputs.followers }}</td>\n  </tr>\n  </table>\n</p>\n\n<p align=\"center\">\n  <img src=\"https://skillicons.dev/icons?i=py,ts,js,cpp,vue,astro,html,css&theme=dark&perline=8\" />\n</p>\n\n<p align=\"center\">\n  <samp><sub>📊 Stats auto-updated daily · 统计每日自动更新</sub></samp>\n</p>\n<!-- STATS-END -->" /tmp/README.md
+          {
+            echo "repos=$repos"
+            echo "stars=$stars"
+            echo "commits=$commits"
+            echo "merged_prs=$merged_prs"
+            echo "followers=$followers"
+          } >> "$GITHUB_OUTPUT"
 
-          CONTENT=$(base64 -w0 /tmp/README.md)
-          SHA=$(gh api repos/ZhouYinLong-lab/ZhouYinLong-lab/contents/README.md --jq '.sha')
-          gh api repos/ZhouYinLong-lab/ZhouYinLong-lab/contents/README.md --method PUT \
-            -f message="📊 Auto-update stats" \
-            -f content="$CONTENT" \
-            -f sha="$SHA"
+      - name: Update README when metrics changed
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOS: ${{ steps.stats.outputs.repos }}
+          STARS: ${{ steps.stats.outputs.stars }}
+          COMMITS: ${{ steps.stats.outputs.commits }}
+          MERGED_PRS: ${{ steps.stats.outputs.merged_prs }}
+          FOLLOWERS: ${{ steps.stats.outputs.followers }}
+        run: |
+          sha=$(gh api repos/ZhouYinLong-lab/ZhouYinLong-lab/contents/README.md --jq '.sha')
+          gh api repos/ZhouYinLong-lab/ZhouYinLong-lab/contents/README.md \
+            --jq '.content' | base64 -d > /tmp/README.md
+
+          python3 <<'PY'
+          import os
+          import re
+          from pathlib import Path
+
+          path = Path("/tmp/README.md")
+          content = path.read_text(encoding="utf-8")
+          replacement = f'''<!-- STATS-START -->
+          <p align="center">
+            <strong>{os.environ["REPOS"]}</strong> 公开仓库 · <strong>{os.environ["STARS"]}</strong> Public Stars · <strong>{os.environ["COMMITS"]}</strong> 过去一年 Commits · <strong>{os.environ["MERGED_PRS"]}</strong> 合并 PR · <strong>{os.environ["FOLLOWERS"]}</strong> Followers
+          </p>
+          <p align="center"><sub>由 GitHub Actions 每周更新，统计口径见工作流</sub></p>
+          <!-- STATS-END -->'''
+          replacement = "\n".join(line.strip() for line in replacement.splitlines())
+          updated, count = re.subn(
+              r"<!-- STATS-START -->.*?<!-- STATS-END -->",
+              replacement,
+              content,
+              flags=re.DOTALL,
+          )
+          if count != 1:
+              raise SystemExit("Expected exactly one stats marker block")
+          path.write_text(updated, encoding="utf-8")
+          PY
+
+          current=$(gh api repos/ZhouYinLong-lab/ZhouYinLong-lab/contents/README.md \
+            --jq '.content' | tr -d '\n')
+          updated=$(base64 -w0 /tmp/README.md)
+          if [ "$current" = "$updated" ]; then
+            echo "Profile metrics are already current."
+            exit 0
+          fi
+
+          gh api repos/ZhouYinLong-lab/ZhouYinLong-lab/contents/README.md \
+            --method PUT \
+            -f message="ci: refresh profile metrics" \
+            -f content="$updated" \
+            -f sha="$sha"
