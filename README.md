@@ -220,8 +220,8 @@ nannahelper 新手教程文档——从零开始的入门指南。
 
 <p align="center">
 <samp>
-<i>"It's hardware that makes a machine fast. It's software that makes a fast machine slow."</i><br/>
-<sub>— Craig Bruce</sub><br/>
+<i>"A good programmer is someone who always looks both ways before crossing a one-way street."</i><br/>
+<sub>— Doug Linder</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
 </p>
