@@ -68,11 +68,13 @@
 
 ## 开源贡献
 
-我更看重可验证的具体改动，而不是贡献列表的长度。以下是几项有代表性的合并 PR：
+以下是已合并到知名开源项目的代表性 PR，每项都可以直接查看改动记录：
 
-- [PPO-Balance-Bench #1](https://github.com/sealgua/PPO-Balance-Bench/pull/1)：改进物理环境渲染，引入多核并行训练并增加 Ultra 模型
+- [Supabase #47658](https://github.com/supabase/supabase/pull/47658)：修正故障排查文档中的拼写错误
+- [MUI #48785](https://github.com/mui/material-ui/pull/48785)：修正 CHANGELOG 中的英文拼写问题
+- [Just the Docs #1836](https://github.com/just-the-docs/just-the-docs/pull/1836)：修复 Ruby `strftime` 文档链接
+- [Model Context Protocol #3019](https://github.com/modelcontextprotocol/modelcontextprotocol/pull/3019)：更新 Goose 集成文档链接
 - [Apache HertzBeat #4187](https://github.com/apache/hertzbeat/pull/4187)：跨 16 个文件修正文档与代码注释中的 13 处问题
-- [Model Context Protocol #3019](https://github.com/modelcontextprotocol/modelcontextprotocol/pull/3019)：维护 Goose 集成文档链接
 
 ## 技术版图
 
