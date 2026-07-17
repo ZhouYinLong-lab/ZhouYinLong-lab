@@ -89,26 +89,58 @@
 <tr>
 <td width="50%">
 
-### 🐕 [Dog-Skills](https://github.com/ZhouYinLong-lab/Dog-Skills) ⭐3
-*48 Claude Code skills covering the full dev lifecycle*
+### 🐕 [Dog-Skills](https://github.com/ZhouYinLong-lab/Dog-Skills) ⭐4
+*116 Claude Code skills covering the full dev lifecycle*
 
-48 个 Claude Code 技能合集——从开发到设计到写作到健康。
+116 个 Claude Code 技能合集——覆盖开发、设计、写作、学习、商业、健康等领域。
 
-`Claude Code` `Skills` `Dev Tools`
+`Claude Code` `Skills` `AI Tools` `Prompt Engineering`
 
 </td>
 <td width="50%">
 
 ### 🔗 [NanE](https://github.com/ZhouYinLong-lab/NanE) ⭐4
-*A link-in-bio & personal landing platform for NJU students*
+*Campus mutual-aid platform for NJU students*
 
-NJU 学生的一站式个人链接页——轻量、优雅、实用。
+NJU 校园互助平台——应急物品共享、审核发布、同楼栋优先匹配。
 
-`JavaScript` `Landing Page`
+`JavaScript` `Node.js` `PostgreSQL` `PWA`
 
 </td>
 </tr>
 <tr>
+<td width="50%">
+
+### 🗺️ [HuaiHai-h5-map](https://github.com/ZhouYinLong-lab/HuaiHai-h5-map) ⭐1
+*Interactive H5 map for the HuaiHai Campaign — digital humanities*
+
+淮海战役交互式 H5 地图——16 个历史节点、三阶段时间线、PWA 离线支持。
+
+`React 18` `TypeScript` `Tailwind CSS` `PWA`
+
+</td>
+<td width="50%">
+
+### 📖 [docs](https://github.com/nannahelper/docs) ⭐4
+*Zero-to-one programming tutorials for beginners*
+
+nannahelper 编程新手教程——20+ 技术主题，MkDocs + GitHub Actions 自动部署。
+
+`MkDocs` `Documentation` `Tutorial` `CI/CD`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🐕 [Dog-LittleTools](https://github.com/ZhouYinLong-lab/Dog-LittleTools) 🆕
+*9 small Bash CLI tools for developers*
+
+Dog CLI 工具箱——Claude Code 费用估算、进程巡检、GPU 管理、秘密扫描等 9 个实用工具。
+
+`Bash` `Shell` `CLI` `Dev Tools`
+
+</td>
 <td width="50%">
 
 ### 🚀 [my-astro-blog](https://github.com/ZhouYinLong-lab/my-astro-blog) ⭐2
@@ -119,43 +151,11 @@ NJU 学生的一站式个人链接页——轻量、优雅、实用。
 `Astro` `Blog` `SSG`
 
 </td>
-<td width="50%">
-
-### 🐕📔 [Dog-Diary](https://github.com/ZhouYinLong-lab/Dog-Diary) ⭐1
-*AI-powered personal diary with mood tracking*
-
-AI 驱动的心情日记——自然语言记录每一天的心情与故事。
-
-`TypeScript` `AI` `Diary`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎓 [NanNa_MOOC](https://github.com/ZhouYinLong-lab/NanNa_MOOC)
-*Online course platform built with Vue.js for NJU students*
-
-NJU 学生的在线课程平台——Vue.js 驱动的慕课系统。
-
-`Vue.js` `Education` `MOOC`
-
-</td>
-<td width="50%">
-
-### 📖 [docs](https://github.com/nannahelper/docs) ⭐3
-*新手教程文档*
-
-nannahelper 新手教程文档——从零开始的入门指南。
-
-`Documentation` `Guide` `Tutorial`
-
-</td>
 </tr>
 </table>
 
 <p align="center">
-  <i>...and 20+ more projects! · 还有 20+ 个项目等你探索！</i>
+  <i>...and 30+ more projects! · 还有 30+ 个项目等你探索！</i>
 </p>
 
 ---
