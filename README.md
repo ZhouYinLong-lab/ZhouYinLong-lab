@@ -20,8 +20,6 @@
 
 你好，我是 **柳含知（Liu Hanzhi）**，南京大学 **智能科学与技术** 在读学生。本名 **周胤龙**。“柳含知”是我更常用的网络名字，“周玄渊”用于 Bilibili、微信等内容平台。
 
-我关心的并不是某一个孤立的技术栈，而是如何把研究、工程与表达连接起来：
-
 - **智能系统**：强化学习、机器人控制、LLM 应用与 Prompt Engineering
 - **工程与开源**：全栈产品、开发者工具、Claude Code Skills 与开源协作
 - **创意技术**：游戏开发、交互叙事、创意编程与技术写作
@@ -50,7 +48,7 @@
 
 ### 4. [nannahelper/docs](https://github.com/nannahelper/docs) — 编程新手教程
 
-面向初学者的零到一技术文档，覆盖 20+ 个主题，使用 MkDocs 构建并通过 GitHub Actions 自动发布。
+南哪助手面向初学者的零到一技术文档，覆盖 20+ 个主题，使用 MkDocs 构建并通过 GitHub Actions 自动发布。
 
 `MkDocs` `Documentation` `Tutorial` `CI/CD`
 
