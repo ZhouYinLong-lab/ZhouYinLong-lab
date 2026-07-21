@@ -106,7 +106,7 @@
 
 <p align="center">
 <samp>
-<i>"The only way to learn a new programming language is by writing programs in it."</i><br/>
+<i>"UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity."</i><br/>
 <sub>— Dennis Ritchie</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
