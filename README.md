@@ -106,8 +106,8 @@
 
 <p align="center">
 <samp>
-<i>"UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity."</i><br/>
-<sub>— Dennis Ritchie</sub><br/>
+<i>"I'm not a great programmer; I'm just a good programmer with great habits."</i><br/>
+<sub>— Kent Beck</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
 </p>
