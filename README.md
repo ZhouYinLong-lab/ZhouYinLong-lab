@@ -1,4 +1,4 @@
-<h1 align="center">柳含知 · Liu Hanzhi</h1>
+<h1 align="center">柳含知 · Liu HanZhi</h1>
 
 <p align="center">
   <strong>Nanjing University Student · AI / RL · Full-Stack · Developer Tools · Open Source</strong>
@@ -18,7 +18,7 @@
 
 ## 关于我
 
-你好，我是 **柳含知（Liu Hanzhi）**，南京大学 **智能科学与技术** 在读学生。本名 **周胤龙**。“柳含知”是我更常用的网络名字，“周玄渊”用于 Bilibili、微信等内容平台。
+你好，我是 **柳含知（Liu HanZhi）**，南京大学 **智能科学与技术** 在读学生。本名 **周胤龙**。“柳含知”是我更常用的网络名字，“周玄渊”用于 Bilibili、微信等内容平台。
 
 - **智能系统**：强化学习、机器人控制、LLM 应用与 Prompt Engineering
 - **工程与开源**：全栈产品、开发者工具、Claude Code Skills 与开源协作
