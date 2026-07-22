@@ -52,11 +52,11 @@
 
 `MkDocs` `Documentation` `Tutorial` `CI/CD`
 
-### 5. [Dog-LittleTools](https://github.com/ZhouYinLong-lab/Dog-LittleTools) — 开发者 CLI 小工具
+### 5. [Dog-Babble](https://github.com/ZhouYinLong-lab/Dog-Babble) — 浏览器端加密工具
 
-9 个 Bash 工具组成的轻量工具箱，包括 Claude Code 费用估算、进程巡检、GPU 管理与秘密扫描。
+纯前端加密实验——PBKDF2 密钥派生 + AES-256-GCM 加密 + 自定义字典编码，零依赖，直接在浏览器中运行。
 
-`Bash` `Shell` `CLI` `Developer Tools`
+`JavaScript` `Encryption` `Web Crypto` `Zero Dependencies`
 
 ### 6. [my-astro-blog](https://github.com/ZhouYinLong-lab/my-astro-blog) — 个人技术博客
 
