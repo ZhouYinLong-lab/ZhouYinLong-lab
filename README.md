@@ -106,8 +106,8 @@
 
 <p align="center">
 <samp>
-<i>"I'm not a great programmer; I'm just a good programmer with great habits."</i><br/>
-<sub>— Kent Beck</sub><br/>
+<i>"The best way to get a project done faster is to start sooner."</i><br/>
+<sub>— Jim Highsmith</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
 </p>
