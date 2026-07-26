@@ -106,8 +106,8 @@
 
 <p align="center">
 <samp>
-<i>"Any sufficiently advanced technology is indistinguishable from magic."</i><br/>
-<sub>— Arthur C. Clarke</sub><br/>
+<i>"The best error message is the one that never shows up."</i><br/>
+<sub>— Thomas Fuchs</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
 </p>
