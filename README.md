@@ -87,7 +87,7 @@
 
 <!-- STATS-START -->
 <p align="center">
-<strong>38</strong> 公开仓库 · <strong>50</strong> Public Stars · <strong>947</strong> 过去一年 Commits · <strong>14</strong> 合并 PR · <strong>10</strong> Followers
+<strong>21</strong> 公开仓库 · <strong>58</strong> Public Stars · <strong>1058</strong> 过去一年 Commits · <strong>17</strong> 合并 PR · <strong>11</strong> Followers
 </p>
 <p align="center"><sub>由 GitHub Actions 每周更新，统计口径见工作流</sub></p>
 <!-- STATS-END -->
