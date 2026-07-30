@@ -106,7 +106,7 @@
 
 <p align="center">
 <samp>
-<i>"I'm generally a very pragmatic person: that which works, works."</i><br/>
+<i>"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."</i><br/>
 <sub>— Linus Torvalds</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
