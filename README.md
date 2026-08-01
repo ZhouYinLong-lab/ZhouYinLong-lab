@@ -106,7 +106,7 @@
 
 <p align="center">
 <samp>
-<i>"Intelligence is the ability to avoid doing work, yet getting the work done."</i><br/>
+<i>"An infinite number of monkeys typing into GNU emacs would never make a good program."</i><br/>
 <sub>— Linus Torvalds</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
