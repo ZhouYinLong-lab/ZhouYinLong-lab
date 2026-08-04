@@ -106,7 +106,7 @@
 
 <p align="center">
 <samp>
-<i>"If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program."</i><br/>
+<i>"Those that can, do. Those that can't, complain."</i><br/>
 <sub>— Linus Torvalds</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
