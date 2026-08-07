@@ -106,7 +106,7 @@
 
 <p align="center">
 <samp>
-<i>"Nobody actually creates perfect code the first time around, except me. But there's only one of me."</i><br/>
+<i>"I'm an egotistical bastard, and I name all my projects after myself. First Linux, now git."</i><br/>
 <sub>— Linus Torvalds</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
