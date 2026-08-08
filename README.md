@@ -106,7 +106,7 @@
 
 <p align="center">
 <samp>
-<i>"I'm an egotistical bastard, and I name all my projects after myself. First Linux, now git."</i><br/>
+<i>"Don't hurry your code. Make sure it works well and is well designed. Don't worry about timing."</i><br/>
 <sub>— Linus Torvalds</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
