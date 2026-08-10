@@ -106,7 +106,7 @@
 
 <p align="center">
 <samp>
-<i>"Portability is for people who cannot write new programs."</i><br/>
+<i>"Any program is only as good as it is useful."</i><br/>
 <sub>— Linus Torvalds</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
