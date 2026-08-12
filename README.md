@@ -106,7 +106,7 @@
 
 <p align="center">
 <samp>
-<i>"The thing with Linux is that the developers are the users. They have their own itch to scratch."</i><br/>
+<i>"In real open source, you have the right to control your own destiny."</i><br/>
 <sub>— Linus Torvalds</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
