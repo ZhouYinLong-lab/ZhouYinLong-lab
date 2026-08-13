@@ -1,0 +1,85 @@
+name: Update latest blog posts
+
+on:
+  schedule:
+    - cron: "31 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme-updates
+  cancel-in-progress: true
+
+jobs:
+  update-blog:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check out profile README
+        uses: actions/checkout@v4
+
+      - name: Fetch RSS and update README
+        run: |
+          python3 <<'PY'
+          import html
+          import re
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          from pathlib import Path
+
+          rss_url = "https://zylatent.com/rss.xml"
+          request = urllib.request.Request(rss_url, headers={"User-Agent": "github-actions"})
+          with urllib.request.urlopen(request, timeout=20) as response:
+              root = ET.fromstring(response.read())
+
+          posts = []
+          for item in root.findall("./channel/item")[:3]:
+              title = html.escape((item.findtext("title") or "").strip())
+              link = html.escape((item.findtext("link") or "").strip(), quote=True)
+              if title and link:
+                  posts.append((title, link))
+
+          if not posts:
+              raise SystemExit("No blog posts found in RSS feed")
+
+          lines = [
+              "<!-- BLOG-START -->",
+              '<p align="center">',
+          ]
+          for title, link in posts:
+              lines.append(f'  <a href="{link}">{title}</a><br/>')
+          lines.extend([
+              '  <sub>来自 <a href="https://zylatent.com/rss.xml">寒柳别苑 RSS</a> · 由 GitHub Actions 自动更新</sub>',
+              "</p>",
+              "<!-- BLOG-END -->",
+          ])
+          replacement = "\n".join(lines)
+
+          path = Path("README.md")
+          content = path.read_text(encoding="utf-8")
+          updated, count = re.subn(
+              r"<!-- BLOG-START -->.*?<!-- BLOG-END -->",
+              replacement,
+              content,
+              flags=re.DOTALL,
+          )
+          if count != 1:
+              raise SystemExit("Expected exactly one blog marker block")
+          path.write_text(updated, encoding="utf-8")
+          PY
+
+      - name: Commit updated blog posts
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "Latest blog posts are already current."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "ci: refresh latest blog posts"
+          git push

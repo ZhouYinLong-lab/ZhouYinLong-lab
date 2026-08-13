@@ -1,0 +1,41 @@
+name: Update GitHub Skyline
+
+on:
+  schedule:
+    - cron: "0 4 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: github-skyline
+  cancel-in-progress: true
+
+jobs:
+  update-skyline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install GitHub Skyline CLI
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh extension install github/gh-skyline
+
+      - name: Generate current-year Skyline
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p skyline
+          gh skyline --user ZhouYinLong-lab --year "$(date -u +%Y)" --output skyline/latest.stl
+
+      - name: Commit updated Skyline
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add skyline/latest.stl
+          git diff --staged --quiet || git commit -m "ci: refresh GitHub Skyline"
+          git push
