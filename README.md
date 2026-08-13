@@ -148,18 +148,20 @@ Latent Garden 的一次真实试验：把博客、项目和学习记录变成一
 <p align="center"><sub>由 GitHub Actions 每周更新，统计口径见工作流</sub></p>
 <!-- STATS-END -->
 
-<p align="center">
-  <a href="https://github.com/ZhouYinLong-lab"><img height="180" src="https://github-readme-stats.vercel.app/api?username=ZhouYinLong-lab&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" alt="GitHub statistics" /></a>
-  <a href="https://github.com/ZhouYinLong-lab"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhouYinLong-lab&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=58A6FF&text_color=8B949E" alt="Most used languages" /></a>
+<p align="left">
+  <a href="https://github.com/ZhouYinLong-lab?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FZhouYinLong-lab&query=%24.public_repos&label=Public%20Repos&color=58A6FF&style=flat-square" alt="Public repositories" /></a>
+  <a href="https://github.com/ZhouYinLong-lab?tab=followers"><img src="https://img.shields.io/github/followers/ZhouYinLong-lab?label=Followers&style=flat-square&color=58A6FF" alt="Followers" /></a>
+  <a href="https://github.com/ZhouYinLong-lab?tab=stars"><img src="https://img.shields.io/github/stars/ZhouYinLong-lab?affiliations=OWNER&label=Stars&style=flat-square&color=58A6FF" alt="Stars" /></a>
+  <a href="https://github.com/ZhouYinLong-lab/ZhouYinLong-lab/actions"><img src="https://img.shields.io/github/last-commit/ZhouYinLong-lab/ZhouYinLong-lab?label=Profile%20updated&style=flat-square&color=58A6FF" alt="Profile last updated" /></a>
 </p>
 
 ### 🧊 3D Contribution Calendar
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZhouYinLong-lab/ZhouYinLong-lab/main/profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZhouYinLong-lab/ZhouYinLong-lab/main/profile-3d-contrib/profile-green-animate.svg" />
-    <img src="https://raw.githubusercontent.com/ZhouYinLong-lab/ZhouYinLong-lab/main/profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub contribution calendar" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZhouYinLong-lab/ZhouYinLong-lab/profile-assets/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZhouYinLong-lab/ZhouYinLong-lab/profile-assets/profile-3d-contrib/profile-green-animate.svg" />
+    <img src="https://raw.githubusercontent.com/ZhouYinLong-lab/ZhouYinLong-lab/profile-assets/profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub contribution calendar" />
   </picture>
 </p>
 
@@ -201,7 +203,7 @@ Latent Garden 的一次真实试验：把博客、项目和学习记录变成一
 ## 🏙️ GitHub Skyline
 
 <p align="center">
-  <a href="https://github.com/ZhouYinLong-lab/ZhouYinLong-lab/blob/main/skyline/latest.stl">
+  <a href="https://github.com/ZhouYinLong-lab/ZhouYinLong-lab/blob/profile-assets/skyline/latest.stl">
     <img src="https://img.shields.io/badge/%F0%9F%8F%99%EF%B8%8F_Open_Contribution_Skyline-3D_STL-58A6FF?style=for-the-badge" alt="Open GitHub Skyline 3D model" />
   </a>
 </p>
