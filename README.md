@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  用代码研究智能，也用代码做真正有意思的产品。
-</p>
-
-<p align="center">
   <a href="https://zylatent.com"><img src="https://img.shields.io/badge/Blog-zylatent.com-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="个人博客" /></a>
   <a href="mailto:liuhanzhi514@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="联系邮箱" /></a>
   <a href="https://space.bilibili.com/511060666"><img src="https://img.shields.io/badge/Bilibili-周玄渊-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=760&height=90&lines=%24+whoami+%E2%86%92+Liu+HanZhi;%24+focus+%E2%86%92+AI%2FRL+%C2%B7+Full-Stack+%C2%B7+Open+Source;%24+status+%E2%86%92+building+interesting+things..." alt="Dynamic terminal profile" />
 </p>
 
 ---
@@ -20,49 +20,81 @@
 
 你好，我是 **柳含知（Liu HanZhi）**，南京大学 **智能科学与技术** 在读学生。本名 **周胤龙**。“柳含知”是我更常用的网络名字，“周玄渊”用于 Bilibili、微信等内容平台。
 
-- **智能系统**：强化学习、机器人控制、LLM 应用与 Prompt Engineering
-- **工程与开源**：全栈产品、开发者工具、Claude Code Skills 与开源协作
-- **创意技术**：游戏开发、交互叙事、创意编程与技术写作
-
-> Build in public, learn in public.
-
 ## 精选项目
 
-### 1. [Dog-Skills](https://github.com/ZhouYinLong-lab/Dog-Skills) — AI Skills 工具箱
+<table>
+<tr>
+<td width="50%">
 
-116 个 Claude Code Skills，覆盖开发、设计、写作、学习、商业与健康等场景，并提供使用指南与组合建议。
+### 1. [Pocket-World-Model](https://github.com/ZhouYinLong-lab/Pocket-World-Model)
 
-`Claude Code` `AI Tools` `Automation` `Prompt Engineering`
+面向 AI / RL 研究的世界模型实验项目，展示 PyTorch 实现、实验设计与评测体系。
 
-### 2. [NanE](https://github.com/ZhouYinLong-lab/NanE) — 南京大学校园互助平台
+`Python` `PyTorch` `Reinforcement Learning` `Evaluation`
 
-面向 NJU 学生的校园互助项目，围绕应急物品共享、信息审核与同楼栋优先匹配展开。项目目前不再部署于服务器，仓库保留完整设计与实现。
+</td>
+<td width="50%">
 
-`JavaScript` `Node.js` `PostgreSQL` `PWA`
+### 2. [my-astro-blog](https://github.com/ZhouYinLong-lab/my-astro-blog)
 
-### 3. [HuaiHai-h5-map](https://github.com/ZhouYinLong-lab/HuaiHai-h5-map) — 淮海战役交互地图
+寒柳别苑，我的数字花园。
 
-以 16 个历史节点和三阶段时间线呈现淮海战役进程，将数字人文、移动端交互与 PWA 离线体验结合起来。
+`Astro` `Blog` `Static Site Generation`
 
-`React` `TypeScript` `Tailwind CSS` `PWA`
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### 4. [nannahelper/docs](https://github.com/nannahelper/docs) — 编程新手教程
+### 3. [nannahelper/docs](https://github.com/nannahelper/docs)
 
 南哪助手面向初学者的零到一技术文档，覆盖 20+ 个主题，使用 MkDocs 构建并通过 GitHub Actions 自动发布。
 
 `MkDocs` `Documentation` `Tutorial` `CI/CD`
 
-### 5. [Dog-Babble](https://github.com/ZhouYinLong-lab/Dog-Babble) — 浏览器端加密工具
+</td>
+<td width="50%">
 
-纯前端加密实验——PBKDF2 密钥派生 + AES-256-GCM 加密 + 自定义字典编码，零依赖，直接在浏览器中运行。
+### 4. [OhMyStyle](https://github.com/ZhouYinLong-lab/OhMyStyle)
 
-`JavaScript` `Encryption` `Web Crypto` `Zero Dependencies`
+生成式 AI 视觉内容工程，结合 Prompt 编译、质量检查、风格系统与大型内容数据规范。
 
-### 6. [my-astro-blog](https://github.com/ZhouYinLong-lab/my-astro-blog) — 个人技术博客
+`Generative AI` `Prompt Engineering` `Visual Systems` `Content Engineering`
 
-基于 Astro 构建的个人数字花园，用于记录技术实践、项目复盘与持续学习。
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-`Astro` `Blog` `Static Site Generation`
+### 5. [Dog-Skills](https://github.com/ZhouYinLong-lab/Dog-Skills)
+
+Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商业与健康等场景，并持续维护开源社区。
+
+`Claude Code` `AI Tools` `Open Source` `Automation`
+
+</td>
+<td width="50%">
+
+### 6. [HuaiHai-h5-map](https://github.com/ZhouYinLong-lab/HuaiHai-h5-map)
+
+淮海战役交互地图，以时间线与历史节点结合 TypeScript、地图可视化和移动端交互叙事。
+
+`TypeScript` `Interactive Storytelling` `Map Visualization` `PWA`
+
+</td>
+</tr>
+</table>
+
+## 最新文章
+
+<!-- BLOG-START -->
+<p align="center">
+  <a href="https://zylatent.com/blog/ohmystyle%E8%A7%86%E8%A7%89%E9%A3%8E%E6%A0%BC%E5%B7%A5%E7%A8%8B/">我为什么开始做 OhMyStyle：把“风格”变成可复用的工程对象</a><br/>
+  <a href="https://zylatent.com/blog/latent-garden%E4%B8%AA%E4%BA%BA%E8%AF%AD%E4%B9%89%E8%8A%B1%E5%9B%AD/">我给寒柳别苑做了一张语义地图</a><br/>
+  <a href="https://zylatent.com/blog/%E4%BA%94%E5%AD%90%E6%A3%8B%E6%90%9C%E7%B4%A2%E5%AE%9E%E9%AA%8C/">五子棋搜索实验</a><br/>
+  <sub>来自 <a href="https://zylatent.com/rss.xml">寒柳别苑 RSS</a> · 由 GitHub Actions 自动更新</sub>
+</p>
+<!-- BLOG-END -->
 
 ## 开源贡献
 
@@ -92,8 +124,25 @@
 <p align="center"><sub>由 GitHub Actions 每周更新，统计口径见工作流</sub></p>
 <!-- STATS-END -->
 
+<p align="center">
+  <a href="https://github.com/ZhouYinLong-lab"><img height="180" src="https://github-readme-stats.vercel.app/api?username=ZhouYinLong-lab&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" alt="GitHub statistics" /></a>
+  <a href="https://github.com/ZhouYinLong-lab"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhouYinLong-lab&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=58A6FF&text_color=8B949E" alt="Most used languages" /></a>
+</p>
+
+### 🧊 3D Contribution Calendar
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZhouYinLong-lab/ZhouYinLong-lab/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZhouYinLong-lab/ZhouYinLong-lab/main/profile-3d-contrib/profile-green-animate.svg" />
+    <img src="https://raw.githubusercontent.com/ZhouYinLong-lab/ZhouYinLong-lab/main/profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub contribution calendar" />
+  </picture>
+</p>
+
+<p align="center"><sub>3D contribution calendar · generated daily by GitHub Actions</sub></p>
+
 <details>
-<summary><strong>一点个性：每日一句与贡献图</strong></summary>
+<summary><strong>每日一句与贡献图</strong></summary>
 
 <!-- QUOTE-START -->
 <p align="center">
@@ -122,6 +171,18 @@
 </p>
 
 </details>
+
+---
+
+## 🏙️ GitHub Skyline
+
+<p align="center">
+  <a href="https://github.com/ZhouYinLong-lab/ZhouYinLong-lab/blob/main/skyline/latest.stl">
+    <img src="https://img.shields.io/badge/%F0%9F%8F%99%EF%B8%8F_Open_Contribution_Skyline-3D_STL-58A6FF?style=for-the-badge" alt="Open GitHub Skyline 3D model" />
+  </a>
+</p>
+
+<p align="center"><sub>把年度贡献记录生成一座可下载的 3D Skyline · 每周自动更新</sub></p>
 
 ---
 
