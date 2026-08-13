@@ -35,25 +35,41 @@ jobs:
           with urllib.request.urlopen(request, timeout=20) as response:
               root = ET.fromstring(response.read())
 
+          fallback_cover = "https://zylatent.com/img/liu.png"
           posts = []
           for item in root.findall("./channel/item")[:3]:
               title = html.escape((item.findtext("title") or "").strip())
               link = html.escape((item.findtext("link") or "").strip(), quote=True)
+              description = html.escape((item.findtext("description") or "").strip())
+              encoded = item.findtext("{http://purl.org/rss/1.0/modules/content/}encoded") or ""
+              image_match = re.search(r'<img\s+[^>]*src=["\']([^"\']+)', html.unescape(encoded), re.IGNORECASE)
+              cover = image_match.group(1) if image_match else fallback_cover
+              cover = html.escape(cover, quote=True)
               if title and link:
-                  posts.append((title, link))
+                  posts.append((title, link, description, cover))
 
           if not posts:
               raise SystemExit("No blog posts found in RSS feed")
 
           lines = [
               "<!-- BLOG-START -->",
-              '<p align="center">',
+              "<table>",
           ]
-          for title, link in posts:
-              lines.append(f'  <a href="{link}">{title}</a><br/>')
+          for title, link, description, cover in posts:
+              lines.extend([
+                  "<tr>",
+                  '<td width="180" valign="top">',
+                  f'<a href="{link}"><img src="{cover}" width="180" alt="Article cover" /></a>',
+                  "</td>",
+                  '<td valign="top">',
+                  f'<a href="{link}"><strong>{title}</strong></a><br/>',
+                  description,
+                  "</td>",
+                  "</tr>",
+              ])
           lines.extend([
-              '  <sub>来自 <a href="https://zylatent.com/rss.xml">寒柳别苑 RSS</a> · 由 GitHub Actions 自动更新</sub>',
-              "</p>",
+              "</table>",
+              '<sub>来自 <a href="https://zylatent.com/rss.xml">寒柳别苑 RSS</a> · 由 GitHub Actions 自动更新</sub>',
               "<!-- BLOG-END -->",
           ])
           replacement = "\n".join(lines)

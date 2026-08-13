@@ -88,12 +88,36 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 ## 最新文章
 
 <!-- BLOG-START -->
-<p align="center">
-  <a href="https://zylatent.com/blog/ohmystyle%E8%A7%86%E8%A7%89%E9%A3%8E%E6%A0%BC%E5%B7%A5%E7%A8%8B/">我为什么开始做 OhMyStyle：把“风格”变成可复用的工程对象</a><br/>
-  <a href="https://zylatent.com/blog/latent-garden%E4%B8%AA%E4%BA%BA%E8%AF%AD%E4%B9%89%E8%8A%B1%E5%9B%AD/">我给寒柳别苑做了一张语义地图</a><br/>
-  <a href="https://zylatent.com/blog/%E4%BA%94%E5%AD%90%E6%A3%8B%E6%90%9C%E7%B4%A2%E5%AE%9E%E9%AA%8C/">五子棋搜索实验</a><br/>
-  <sub>来自 <a href="https://zylatent.com/rss.xml">寒柳别苑 RSS</a> · 由 GitHub Actions 自动更新</sub>
-</p>
+<table>
+<tr>
+<td width="180" valign="top">
+<a href="https://zylatent.com/blog/ohmystyle%E8%A7%86%E8%A7%89%E9%A3%8E%E6%A0%BC%E5%B7%A5%E7%A8%8B/"><img src="https://zylatent.com/img/ohmystyle/high-chroma-color-pairing-gallery-16x9.jpg" width="180" alt="OhMyStyle article cover" /></a>
+</td>
+<td valign="top">
+<a href="https://zylatent.com/blog/ohmystyle%E8%A7%86%E8%A7%89%E9%A3%8E%E6%A0%BC%E5%B7%A5%E7%A8%8B/"><strong>我为什么开始做 OhMyStyle：把“风格”变成可复用的工程对象</strong></a><br/>
+从寒柳别苑的背景图开始，把模糊的风格描述拆成可追溯、可组合、可校验的视觉工程对象。
+</td>
+</tr>
+<tr>
+<td width="180" valign="top">
+<a href="https://zylatent.com/blog/latent-garden%E4%B8%AA%E4%BA%BA%E8%AF%AD%E4%B9%89%E8%8A%B1%E5%9B%AD/"><img src="https://zylatent.com/portfolio/semantic-garden-dark.png" width="180" alt="Latent Garden article cover" /></a>
+</td>
+<td valign="top">
+<a href="https://zylatent.com/blog/latent-garden%E4%B8%AA%E4%BA%BA%E8%AF%AD%E4%B9%89%E8%8A%B1%E5%9B%AD/"><strong>我给寒柳别苑做了一张语义地图</strong></a><br/>
+Latent Garden 的一次真实试验：把博客、项目和学习记录变成一张可以走进去的地图。
+</td>
+</tr>
+<tr>
+<td width="180" valign="top">
+<a href="https://zylatent.com/blog/%E4%BA%94%E5%AD%90%E6%A3%8B%E6%90%9C%E7%B4%A2%E5%AE%9E%E9%AA%8C/"><img src="https://zylatent.com/img/gomoku/search-architecture.svg" width="180" alt="Gomoku search article cover" /></a>
+</td>
+<td valign="top">
+<a href="https://zylatent.com/blog/%E4%BA%94%E5%AD%90%E6%A3%8B%E6%90%9C%E7%B4%A2%E5%AE%9E%E9%AA%8C/"><strong>从五子棋作业到搜索实验：用第五章的方法拆开一个 Agent</strong></a><br/>
+以对抗搜索为主线，把一次五子棋课程作业重构成可比较、可复现的搜索实验。
+</td>
+</tr>
+</table>
+<sub>来自 <a href="https://zylatent.com/rss.xml">寒柳别苑 RSS</a> · 由 GitHub Actions 自动更新</sub>
 <!-- BLOG-END -->
 
 ## 开源贡献
