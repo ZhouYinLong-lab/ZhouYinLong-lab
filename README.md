@@ -181,7 +181,7 @@ Latent Garden 的一次真实试验：把博客、项目和学习记录变成一
 
 <p align="center">
 <samp>
-<i>"In real open source, you have the right to control your own destiny."</i><br/>
+<i>"A computer is like air conditioning — it becomes useless when you open Windows."</i><br/>
 <sub>— Linus Torvalds</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
