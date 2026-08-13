@@ -1,4 +1,4 @@
-name: Generate 3D contribution calendar
+name: Generate profile assets
 
 on:
   schedule:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: profile-3d-contrib
+  group: profile-assets
   cancel-in-progress: true
 
 jobs:
@@ -19,16 +19,28 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Commit generated 3D calendar
+      - name: Generate current-year Skyline
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh extension install github/gh-skyline
+          mkdir -p skyline
+          gh skyline --user ZhouYinLong-lab --year "$(date -u +%Y)" --output skyline/latest.stl
+
+      - name: Publish profile assets
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile-3d-contrib
-          git diff --staged --quiet || git commit -m "ci: refresh 3D contribution calendar"
-          git push
+          git checkout --orphan profile-assets
+          git rm -rf .
+          git add profile-3d-contrib skyline/latest.stl
+          git commit -m "ci: refresh profile assets"
+          git push --force origin profile-assets
