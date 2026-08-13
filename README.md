@@ -1,15 +1,10 @@
 <h1 align="center">柳含知 · Liu HanZhi</h1>
 
 <p align="center">
-  <strong>Nanjing University Student · AI / RL · Full-Stack · Developer Tools · Open Source</strong>
-</p>
-
-<p align="center">
   <a href="https://zylatent.com"><img src="https://img.shields.io/badge/Blog-zylatent.com-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="个人博客" /></a>
   <a href="mailto:liuhanzhi514@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="联系邮箱" /></a>
   <a href="https://space.bilibili.com/511060666"><img src="https://img.shields.io/badge/Bilibili-周玄渊-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=760&height=90&lines=%24+whoami+%E2%86%92+Liu+HanZhi;%24+focus+%E2%86%92+AI%2FRL+%C2%B7+Full-Stack+%C2%B7+Open+Source;%24+status+%E2%86%92+building+interesting+things..." alt="Dynamic terminal profile" />
 </p>
@@ -85,6 +80,8 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 </tr>
 </table>
 
+---
+
 ## 最新文章
 
 <!-- BLOG-START -->
@@ -120,24 +117,7 @@ Latent Garden 的一次真实试验：把博客、项目和学习记录变成一
 <sub>来自 <a href="https://zylatent.com/rss.xml">寒柳别苑 RSS</a> · 由 GitHub Actions 自动更新</sub>
 <!-- BLOG-END -->
 
-## 开源贡献
-
-以下是已合并到知名开源项目的代表性 PR，每项都可以直接查看改动记录：
-
-- [Supabase #47658](https://github.com/supabase/supabase/pull/47658)：修正故障排查文档中的拼写错误
-- [MUI #48785](https://github.com/mui/material-ui/pull/48785)：修正 CHANGELOG 中的英文拼写问题
-- [Just the Docs #1836](https://github.com/just-the-docs/just-the-docs/pull/1836)：修复 Ruby `strftime` 文档链接
-- [Model Context Protocol #3019](https://github.com/modelcontextprotocol/modelcontextprotocol/pull/3019)：更新 Goose 集成文档链接
-- [Apache HertzBeat #4187](https://github.com/apache/hertzbeat/pull/4187)：跨 16 个文件修正文档与代码注释中的 13 处问题
-
-## 技术版图
-
-| 方向 | 技术与工具 |
-| --- | --- |
-| AI / RL | Python · PyTorch · PyBullet · Jupyter · LLM Applications |
-| Web Engineering | TypeScript · JavaScript · Vue · React · Node.js · Astro |
-| Systems & Creative Coding | C++ · Godot · Linux · Git · PWA |
-| Developer Experience | Claude Code · GitHub Actions · Documentation · Automation |
+---
 
 ## GitHub 数据
 
@@ -167,36 +147,17 @@ Latent Garden 的一次真实试验：把博客、项目和学习记录变成一
 
 <p align="center"><sub>3D contribution calendar · generated daily by GitHub Actions</sub></p>
 
-<details>
-<summary><strong>每日一句与贡献图</strong></summary>
+---
 
-<!-- QUOTE-START -->
-<p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=8000&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%92%AC+Daily+Random+Quote+%7C+%E6%AF%8F%E6%97%A5%E9%9A%8F%E6%9C%BA%E5%90%8D%E8%A8%80" />
-<source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=8000&color=0969DA&center=true&vCenter=true&width=700&lines=%F0%9F%92%AC+Daily+Random+Quote+%7C+%E6%AF%8F%E6%97%A5%E9%9A%8F%E6%9C%BA%E5%90%8D%E8%A8%80" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=8000&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%92%AC+Daily+Random+Quote+%7C+%E6%AF%8F%E6%97%A5%E9%9A%8F%E6%9C%BA%E5%90%8D%E8%A8%80" />
-</picture>
-</p>
+## 开源贡献
 
-<p align="center">
-<samp>
-<i>"In real open source, you have the right to control your own destiny."</i><br/>
-<sub>— Linus Torvalds</sub><br/>
-<sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
-</samp>
-</p>
-<!-- QUOTE-END -->
+以下是已合并到知名开源项目的代表性 PR，每项都可以直接查看改动记录：
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZhouYinLong-lab/ZhouYinLong-lab/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZhouYinLong-lab/ZhouYinLong-lab/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/ZhouYinLong-lab/ZhouYinLong-lab/output/github-contribution-grid-snake.svg" alt="Contribution graph" />
-  </picture>
-</p>
-
-</details>
+- [Supabase #47658](https://github.com/supabase/supabase/pull/47658)：修正故障排查文档中的拼写错误
+- [MUI #48785](https://github.com/mui/material-ui/pull/48785)：修正 CHANGELOG 中的英文拼写问题
+- [Just the Docs #1836](https://github.com/just-the-docs/just-the-docs/pull/1836)：修复 Ruby `strftime` 文档链接
+- [Model Context Protocol #3019](https://github.com/modelcontextprotocol/modelcontextprotocol/pull/3019)：更新 Goose 集成文档链接
+- [Apache HertzBeat #4187](https://github.com/apache/hertzbeat/pull/4187)：跨 16 个文件修正文档与代码注释中的 13 处问题
 
 ---
 
