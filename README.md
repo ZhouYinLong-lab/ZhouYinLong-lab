@@ -181,7 +181,7 @@ Latent Garden 的一次真实试验：把博客、项目和学习记录变成一
 
 <p align="center">
 <samp>
-<i>"A computer is like air conditioning — it becomes useless when you open Windows."</i><br/>
+<i>"No problem is too big to be solved by a motivated enough engineer."</i><br/>
 <sub>— Linus Torvalds</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
