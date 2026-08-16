@@ -181,8 +181,8 @@ Latent Garden 的一次真实试验：把博客、项目和学习记录变成一
 
 <p align="center">
 <samp>
-<i>"Theory and practice sometimes clash. Theory loses. Every single time."</i><br/>
-<sub>— Linus Torvalds</sub><br/>
+<i>"If debugging is the process of removing software bugs, then programming must be the process of putting them in."</i><br/>
+<sub>— Edsger Dijkstra</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
 </p>
