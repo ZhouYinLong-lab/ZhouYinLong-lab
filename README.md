@@ -181,8 +181,8 @@ Latent Garden 的一次真实试验：把博客、项目和学习记录变成一
 
 <p align="center">
 <samp>
-<i>"Simplicity is prerequisite for reliability."</i><br/>
-<sub>— Edsger Dijkstra</sub><br/>
+<i>"Premature optimization is the root of all evil."</i><br/>
+<sub>— Donald Knuth</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
 </p>
