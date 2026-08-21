@@ -91,7 +91,7 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 <table>
 <tr>
 <td width="180" valign="top">
-<a href="https://zylatent.com/blog/remembrance-of-things-past/"><img src="https://zylatent.com/img/remembrance/2.webp" width="180" alt="Article cover" /></a>
+<a href="https://zylatent.com/blog/remembrance-of-things-past/"><img src="https://zylatent.com/img/remembrance/camille-pissarro-boulevard-montmartre-at-night-1897.jpg" width="180" alt="Article cover" /></a>
 </td>
 <td valign="top">
 <a href="https://zylatent.com/blog/remembrance-of-things-past/"><strong>七夕，重走一遍上学路</strong></a><br/>
@@ -100,7 +100,7 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 </tr>
 <tr>
 <td width="180" valign="top">
-<a href="https://zylatent.com/blog/ohmystyle%E8%A7%86%E8%A7%89%E9%A3%8E%E6%A0%BC%E5%B7%A5%E7%A8%8B/"><img src="https://zylatent.com/img/ohmystyle/high-chroma-color-pairing-gallery-16x9.jpg" width="180" alt="Article cover" /></a>
+<a href="https://zylatent.com/blog/ohmystyle%E8%A7%86%E8%A7%89%E9%A3%8E%E6%A0%BC%E5%B7%A5%E7%A8%8B/"><img src="https://zylatent.com/img/paintings/raphael-school-of-athens.jpg" width="180" alt="Article cover" /></a>
 </td>
 <td valign="top">
 <a href="https://zylatent.com/blog/ohmystyle%E8%A7%86%E8%A7%89%E9%A3%8E%E6%A0%BC%E5%B7%A5%E7%A8%8B/"><strong>我为什么开始做 OhMyStyle：把“风格”变成可复用的工程对象</strong></a><br/>
@@ -109,7 +109,7 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 </tr>
 <tr>
 <td width="180" valign="top">
-<a href="https://zylatent.com/blog/latent-garden%E4%B8%AA%E4%BA%BA%E8%AF%AD%E4%B9%89%E8%8A%B1%E5%9B%AD/"><img src="https://zylatent.com/img/liu.png" width="180" alt="Article cover" /></a>
+<a href="https://zylatent.com/blog/latent-garden%E4%B8%AA%E4%BA%BA%E8%AF%AD%E4%B9%89%E8%8A%B1%E5%9B%AD/"><img src="https://zylatent.com/portfolio/semantic-garden-light.png" width="180" alt="Article cover" /></a>
 </td>
 <td valign="top">
 <a href="https://zylatent.com/blog/latent-garden%E4%B8%AA%E4%BA%BA%E8%AF%AD%E4%B9%89%E8%8A%B1%E5%9B%AD/"><strong>我给寒柳别苑做了一张语义地图</strong></a><br/>
