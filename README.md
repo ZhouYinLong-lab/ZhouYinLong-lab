@@ -181,8 +181,8 @@ Latent Garden 的一次真实试验：把博客、项目和学习记录变成一
 
 <p align="center">
 <samp>
-<i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i><br/>
-<sub>— Martin Fowler</sub><br/>
+<i>"First, solve the problem. Then, write the code."</i><br/>
+<sub>— John Johnson</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
 </p>
