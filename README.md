@@ -143,7 +143,7 @@ Latent Garden 的一次真实试验：把博客、项目和学习记录变成一
 
 <!-- STATS-START -->
 <p align="center">
-<strong>25</strong> 公开仓库 · <strong>63</strong> Public Stars · <strong>2350</strong> 过去一年 Commits · <strong>52</strong> 合并 PR · <strong>12</strong> Followers
+<strong>27</strong> 公开仓库 · <strong>65</strong> Public Stars · <strong>2437</strong> 过去一年 Commits · <strong>63</strong> 合并 PR · <strong>12</strong> Followers
 </p>
 <p align="center"><sub>由 GitHub Actions 每周从 GitHub API 获取并更新</sub></p>
 <!-- STATS-END -->
