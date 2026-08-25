@@ -91,6 +91,15 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 <table>
 <tr>
 <td width="180" valign="top">
+<a href="https://zylatent.com/blog/point-allocation-credit-assignment/"><img src="https://zylatent.com/img/paintings/caravaggio-cardsharps.jpg" width="180" alt="Article cover" /></a>
+</td>
+<td valign="top">
+<a href="https://zylatent.com/blog/point-allocation-credit-assignment/"><strong>谁该得到这 100 分？从点数分配到人工智能的信用分配</strong></a><br/>
+从一场未完成的比赛出发，理解概率统计中的点数分配问题，并进一步讨论强化学习、多智能体、反事实归因、Shapley Value 与神经网络中的信用分配。
+</td>
+</tr>
+<tr>
+<td width="180" valign="top">
 <a href="https://zylatent.com/blog/remembrance-of-things-past/"><img src="https://zylatent.com/img/remembrance/camille-pissarro-boulevard-montmartre-at-night-1897.jpg" width="180" alt="Article cover" /></a>
 </td>
 <td valign="top">
@@ -105,15 +114,6 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 <td valign="top">
 <a href="https://zylatent.com/blog/ohmystyle%E8%A7%86%E8%A7%89%E9%A3%8E%E6%A0%BC%E5%B7%A5%E7%A8%8B/"><strong>我为什么开始做 OhMyStyle：把“风格”变成可复用的工程对象</strong></a><br/>
 从寒柳别苑的背景图开始，我尝试把一句“保持原来的画风”拆成可追溯、可组合、可校验的视觉风格系统。
-</td>
-</tr>
-<tr>
-<td width="180" valign="top">
-<a href="https://zylatent.com/blog/latent-garden%E4%B8%AA%E4%BA%BA%E8%AF%AD%E4%B9%89%E8%8A%B1%E5%9B%AD/"><img src="https://zylatent.com/portfolio/semantic-garden-light.png" width="180" alt="Article cover" /></a>
-</td>
-<td valign="top">
-<a href="https://zylatent.com/blog/latent-garden%E4%B8%AA%E4%BA%BA%E8%AF%AD%E4%B9%89%E8%8A%B1%E5%9B%AD/"><strong>我给寒柳别苑做了一张语义地图</strong></a><br/>
-Latent Garden 的一次真实试验：把博客、项目和学习记录变成一张可以走进去的地图。
 </td>
 </tr>
 </table>
