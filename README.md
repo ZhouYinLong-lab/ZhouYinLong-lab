@@ -181,8 +181,8 @@ Latent Garden 的一次真实试验：把博客、项目和学习记录变成一
 
 <p align="center">
 <samp>
-<i>"The best thing about a boolean is even if you are wrong, you are only off by a bit."</i><br/>
-<sub>— Anonymous</sub><br/>
+<i>"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."</i><br/>
+<sub>— Bill Gates</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
 </p>
