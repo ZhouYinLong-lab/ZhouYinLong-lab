@@ -94,8 +94,8 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 <a href="https://zylatent.com/blog/point-allocation-credit-assignment/"><img src="https://zylatent.com/img/paintings/caravaggio-cardsharps.jpg" width="180" alt="Article cover" /></a>
 </td>
 <td valign="top">
-<a href="https://zylatent.com/blog/point-allocation-credit-assignment/"><strong>谁该得到这 100 分？从点数分配到人工智能的信用分配</strong></a><br/>
-从一场未完成的比赛出发，理解概率统计中的点数分配问题，并进一步讨论强化学习、多智能体、反事实归因、Shapley Value 与神经网络中的信用分配。
+<a href="https://zylatent.com/blog/point-allocation-credit-assignment/"><strong>谁该得到这 100 分？人工智能中的点数分配问题</strong></a><br/>
+从概率统计中的点数分配问题出发，讨论强化学习、多智能体、反事实归因、Shapley Value 与神经网络中的点数分配。
 </td>
 </tr>
 <tr>
