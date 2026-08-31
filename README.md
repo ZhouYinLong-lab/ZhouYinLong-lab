@@ -181,8 +181,8 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 
 <p align="center">
 <samp>
-<i>"If builders built buildings the way programmers wrote programs, then the first woodpecker that came along would destroy civilization."</i><br/>
-<sub>— Gerald Weinberg</sub><br/>
+<i>"It's not a bug — it's an undocumented feature."</i><br/>
+<sub>— Anonymous</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
 </p>
