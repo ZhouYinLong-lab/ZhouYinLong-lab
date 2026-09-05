@@ -181,8 +181,8 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 
 <p align="center">
 <samp>
-<i>"If at first you don't succeed, call it version 1.0."</i><br/>
-<sub>— Unknown</sub><br/>
+<i>"Low-level programming is good for the programmer's soul."</i><br/>
+<sub>— John Carmack</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
 </p>
