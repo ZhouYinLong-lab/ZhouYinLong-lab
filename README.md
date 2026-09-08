@@ -91,6 +91,15 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 <table>
 <tr>
 <td width="180" valign="top">
+<a href="https://zylatent.com/blog/dog-map%E4%B8%AA%E4%BA%BA%E8%B7%AF%E7%BA%BF%E5%9C%B0%E5%9B%BE/"><img src="https://zylatent.com/img/paintings/hokusai-great-wave-off-kanagawa.jpg" width="180" alt="Article cover" /></a>
+</td>
+<td valign="top">
+<a href="https://zylatent.com/blog/dog-map%E4%B8%AA%E4%BA%BA%E8%B7%AF%E7%BA%BF%E5%9C%B0%E5%9B%BE/"><strong>Dog-Map：我给自己做的一张路线地图</strong></a><br/>
+记录我如何用一张地图保存去过的地方、走过的路线和留下的照片。
+</td>
+</tr>
+<tr>
+<td width="180" valign="top">
 <a href="https://zylatent.com/blog/point-allocation-credit-assignment/"><img src="https://zylatent.com/img/paintings/caravaggio-cardsharps.jpg" width="180" alt="Article cover" /></a>
 </td>
 <td valign="top">
@@ -105,15 +114,6 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 <td valign="top">
 <a href="https://zylatent.com/blog/remembrance-of-things-past/"><strong>七夕，重走一遍上学路</strong></a><br/>
 骑车回到初中时的家、学校和那些已经说不清的旧日片段，在一条改变了的路上重新辨认过去。
-</td>
-</tr>
-<tr>
-<td width="180" valign="top">
-<a href="https://zylatent.com/blog/ohmystyle%E8%A7%86%E8%A7%89%E9%A3%8E%E6%A0%BC%E5%B7%A5%E7%A8%8B/"><img src="https://zylatent.com/img/paintings/raphael-school-of-athens.jpg" width="180" alt="Article cover" /></a>
-</td>
-<td valign="top">
-<a href="https://zylatent.com/blog/ohmystyle%E8%A7%86%E8%A7%89%E9%A3%8E%E6%A0%BC%E5%B7%A5%E7%A8%8B/"><strong>我为什么开始做 OhMyStyle：把“风格”变成可复用的工程对象</strong></a><br/>
-从寒柳别苑的背景图开始，我尝试把一句“保持原来的画风”拆成可追溯、可组合、可校验的视觉风格系统。
 </td>
 </tr>
 </table>
