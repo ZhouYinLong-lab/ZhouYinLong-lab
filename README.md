@@ -181,8 +181,8 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 
 <p align="center">
 <samp>
-<i>"The best way to get a project done faster is to start sooner."</i><br/>
-<sub>— Jim Highsmith</sub><br/>
+<i>"The future is already here — it's just not evenly distributed."</i><br/>
+<sub>— William Gibson</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
 </p>
