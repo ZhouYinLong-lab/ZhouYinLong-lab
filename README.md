@@ -91,6 +91,15 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 <table>
 <tr>
 <td width="180" valign="top">
+<a href="https://zylatent.com/blog/%E5%9C%A8%E6%A8%A1%E6%8B%9F%E5%99%A8%E9%87%8C%E9%87%8D%E6%96%B0%E6%89%93%E5%BC%80%E4%B8%A4%E4%BB%A3%E4%B8%BB%E6%9C%BA%E6%B8%B8%E6%88%8F/"><img src="https://zylatent.com/img/emulation/shadow-of-the-colossus-official.jpg" width="180" alt="Article cover" /></a>
+</td>
+<td valign="top">
+<a href="https://zylatent.com/blog/%E5%9C%A8%E6%A8%A1%E6%8B%9F%E5%99%A8%E9%87%8C%E9%87%8D%E6%96%B0%E6%89%93%E5%BC%80%E4%B8%A4%E4%BB%A3%E4%B8%BB%E6%9C%BA%E6%B8%B8%E6%88%8F/"><strong>在模拟器里重新打开两代主机游戏</strong></a><br/>
+记录我用 RetroArch 折腾《旺达与巨像》，以及用 shadPS4 尝试《血源诅咒》和《重力异想世界》的过程。
+</td>
+</tr>
+<tr>
+<td width="180" valign="top">
 <a href="https://zylatent.com/blog/dog-map%E4%B8%AA%E4%BA%BA%E8%B7%AF%E7%BA%BF%E5%9C%B0%E5%9B%BE/"><img src="https://zylatent.com/img/paintings/hokusai-great-wave-off-kanagawa.jpg" width="180" alt="Article cover" /></a>
 </td>
 <td valign="top">
@@ -105,15 +114,6 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 <td valign="top">
 <a href="https://zylatent.com/blog/point-allocation-credit-assignment/"><strong>谁该得到这 100 分？人工智能中的点数分配问题</strong></a><br/>
 从概率统计中的点数分配问题出发，讨论强化学习、多智能体、反事实归因、Shapley Value 与神经网络中的点数分配。
-</td>
-</tr>
-<tr>
-<td width="180" valign="top">
-<a href="https://zylatent.com/blog/remembrance-of-things-past/"><img src="https://zylatent.com/img/remembrance/camille-pissarro-boulevard-montmartre-at-night-1897.jpg" width="180" alt="Article cover" /></a>
-</td>
-<td valign="top">
-<a href="https://zylatent.com/blog/remembrance-of-things-past/"><strong>七夕，重走一遍上学路</strong></a><br/>
-骑车回到初中时的家、学校和那些已经说不清的旧日片段，在一条改变了的路上重新辨认过去。
 </td>
 </tr>
 </table>
