@@ -181,7 +181,7 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 
 <p align="center">
 <samp>
-<i>"Only wimps use tape backup. REAL men just upload their important stuff on ftp and let the rest of the world mirror it."</i><br/>
+<i>"If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program."</i><br/>
 <sub>— Linus Torvalds</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
