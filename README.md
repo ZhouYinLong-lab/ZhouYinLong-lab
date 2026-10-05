@@ -100,20 +100,20 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 </tr>
 <tr>
 <td width="180" valign="top">
-<a href="https://zylatent.com/blog/%E5%9C%A8%E6%A8%A1%E6%8B%9F%E5%99%A8%E9%87%8C%E9%87%8D%E6%96%B0%E6%89%93%E5%BC%80%E4%B8%A4%E4%BB%A3%E4%B8%BB%E6%9C%BA%E6%B8%B8%E6%88%8F/"><img src="https://zylatent.com/img/emulation/shadow-of-the-colossus-official.jpg" width="180" alt="Article cover" /></a>
-</td>
-<td valign="top">
-<a href="https://zylatent.com/blog/%E5%9C%A8%E6%A8%A1%E6%8B%9F%E5%99%A8%E9%87%8C%E9%87%8D%E6%96%B0%E6%89%93%E5%BC%80%E4%B8%A4%E4%BB%A3%E4%B8%BB%E6%9C%BA%E6%B8%B8%E6%88%8F/"><strong>在模拟器里重新打开两代主机游戏</strong></a><br/>
-记录我用 RetroArch 折腾《旺达与巨像》，以及用 shadPS4 尝试《血源诅咒》和《重力异想世界》的过程。
-</td>
-</tr>
-<tr>
-<td width="180" valign="top">
 <a href="https://zylatent.com/blog/dog-map%E4%B8%AA%E4%BA%BA%E8%B7%AF%E7%BA%BF%E5%9C%B0%E5%9B%BE/"><img src="https://zylatent.com/img/paintings/hokusai-great-wave-off-kanagawa.jpg" width="180" alt="Article cover" /></a>
 </td>
 <td valign="top">
 <a href="https://zylatent.com/blog/dog-map%E4%B8%AA%E4%BA%BA%E8%B7%AF%E7%BA%BF%E5%9C%B0%E5%9B%BE/"><strong>Dog-Map：我给自己做的一张路线地图</strong></a><br/>
 记录我如何用一张地图保存去过的地方、走过的路线和留下的照片。
+</td>
+</tr>
+<tr>
+<td width="180" valign="top">
+<a href="https://zylatent.com/blog/%E4%BA%94%E5%AD%90%E6%A3%8B%E6%90%9C%E7%B4%A2%E5%AE%9E%E9%AA%8C/"><img src="https://zylatent.com/img/paintings/eakins-the-chess-players.jpg" width="180" alt="Article cover" /></a>
+</td>
+<td valign="top">
+<a href="https://zylatent.com/blog/%E4%BA%94%E5%AD%90%E6%A3%8B%E6%90%9C%E7%B4%A2%E5%AE%9E%E9%AA%8C/"><strong>从五子棋作业到搜索实验：用第五章的方法拆开一个 Agent</strong></a><br/>
+以《人工智能：一种现代方法》第五章的对抗搜索为主线，把一次五子棋课程作业重构成可比较、可复现的搜索实验。
 </td>
 </tr>
 </table>
