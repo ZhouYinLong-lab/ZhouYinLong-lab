@@ -181,7 +181,7 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 
 <p align="center">
 <samp>
-<i>"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."</i><br/>
+<i>"Simplicity is prerequisite for reliability."</i><br/>
 <sub>— Edsger Dijkstra</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
