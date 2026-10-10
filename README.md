@@ -181,8 +181,8 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 
 <p align="center">
 <samp>
-<i>"Simplicity is prerequisite for reliability."</i><br/>
-<sub>— Edsger Dijkstra</sub><br/>
+<i>"Premature optimization is the root of all evil."</i><br/>
+<sub>— Donald Knuth</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
 </p>
