@@ -181,8 +181,8 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 
 <p align="center">
 <samp>
-<i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i><br/>
-<sub>— Martin Fowler</sub><br/>
+<i>"First, solve the problem. Then, write the code."</i><br/>
+<sub>— John Johnson</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
 </p>
