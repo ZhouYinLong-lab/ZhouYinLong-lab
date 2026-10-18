@@ -109,11 +109,11 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 </tr>
 <tr>
 <td width="180" valign="top">
-<a href="https://zylatent.com/blog/%E4%BA%94%E5%AD%90%E6%A3%8B%E6%90%9C%E7%B4%A2%E5%AE%9E%E9%AA%8C/"><img src="https://zylatent.com/img/paintings/eakins-the-chess-players.jpg" width="180" alt="Article cover" /></a>
+<a href="https://zylatent.com/blog/point-allocation-credit-assignment/"><img src="https://zylatent.com/img/paintings/caravaggio-cardsharps.jpg" width="180" alt="Article cover" /></a>
 </td>
 <td valign="top">
-<a href="https://zylatent.com/blog/%E4%BA%94%E5%AD%90%E6%A3%8B%E6%90%9C%E7%B4%A2%E5%AE%9E%E9%AA%8C/"><strong>从五子棋作业到搜索实验：用第五章的方法拆开一个 Agent</strong></a><br/>
-以《人工智能：一种现代方法》第五章的对抗搜索为主线，把一次五子棋课程作业重构成可比较、可复现的搜索实验。
+<a href="https://zylatent.com/blog/point-allocation-credit-assignment/"><strong>谁该得到这 100 分？人工智能中的点数分配问题</strong></a><br/>
+从概率统计中的点数分配问题出发，讨论强化学习、多智能体、反事实归因、Shapley Value 与神经网络中的点数分配。
 </td>
 </tr>
 </table>
