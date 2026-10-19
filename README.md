@@ -91,6 +91,15 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 <table>
 <tr>
 <td width="180" valign="top">
+<a href="https://zylatent.com/blog/%E5%88%80%E9%94%8B%E4%B9%A6%E8%AF%84/"><img src="https://zylatent.com/img/paintings/manet-a-bar-at-the-folies-bergere.jpg" width="180" alt="Article cover" /></a>
+</td>
+<td valign="top">
+<a href="https://zylatent.com/blog/%E5%88%80%E9%94%8B%E4%B9%A6%E8%AF%84/"><strong>《刀锋》书评——一把刀的锋刃不容易越过</strong></a><br/>
+读完《刀锋》后，对拉里、伊莎贝尔、格雷、苏菲和埃利奥特几种生活选择的杂谈。
+</td>
+</tr>
+<tr>
+<td width="180" valign="top">
 <a href="https://zylatent.com/blog/%E6%85%A2%E4%B8%8B%E6%9D%A5-%E4%BD%A0%E5%85%B6%E5%AE%9E%E6%B2%A1%E6%9C%89%E8%90%BD%E4%B8%8B%E4%BB%80%E4%B9%88/"><img src="https://zylatent.com/img/paintings/rembrandt-philosopher-in-meditation.jpg" width="180" alt="Article cover" /></a>
 </td>
 <td valign="top">
@@ -105,15 +114,6 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 <td valign="top">
 <a href="https://zylatent.com/blog/dog-map%E4%B8%AA%E4%BA%BA%E8%B7%AF%E7%BA%BF%E5%9C%B0%E5%9B%BE/"><strong>Dog-Map：我给自己做的一张路线地图</strong></a><br/>
 记录我如何用一张地图保存去过的地方、走过的路线和留下的照片。
-</td>
-</tr>
-<tr>
-<td width="180" valign="top">
-<a href="https://zylatent.com/blog/point-allocation-credit-assignment/"><img src="https://zylatent.com/img/paintings/caravaggio-cardsharps.jpg" width="180" alt="Article cover" /></a>
-</td>
-<td valign="top">
-<a href="https://zylatent.com/blog/point-allocation-credit-assignment/"><strong>谁该得到这 100 分？人工智能中的点数分配问题</strong></a><br/>
-从概率统计中的点数分配问题出发，讨论强化学习、多智能体、反事实归因、Shapley Value 与神经网络中的点数分配。
 </td>
 </tr>
 </table>
