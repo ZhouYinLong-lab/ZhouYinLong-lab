@@ -181,8 +181,8 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 
 <p align="center">
 <samp>
-<i>"Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning."</i><br/>
-<sub>— Rick Cook</sub><br/>
+<i>"The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better."</i><br/>
+<sub>— Randall E. Stross</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
 </p>
