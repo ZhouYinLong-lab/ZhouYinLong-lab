@@ -181,8 +181,8 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 
 <p align="center">
 <samp>
-<i>"The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better."</i><br/>
-<sub>— Randall E. Stross</sub><br/>
+<i>"If builders built buildings the way programmers wrote programs, then the first woodpecker that came along would destroy civilization."</i><br/>
+<sub>— Gerald Weinberg</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
 </p>
