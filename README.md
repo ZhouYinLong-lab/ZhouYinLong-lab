@@ -181,8 +181,8 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 
 <p align="center">
 <samp>
-<i>"It's not a bug — it's an undocumented feature."</i><br/>
-<sub>— Anonymous</sub><br/>
+<i>"Without requirements or design, programming is the art of adding bugs to an empty text file."</i><br/>
+<sub>— Louis Srygley</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
 </p>
