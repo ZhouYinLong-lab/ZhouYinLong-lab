@@ -181,8 +181,8 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 
 <p align="center">
 <samp>
-<i>"Before software can be reusable it first has to be usable."</i><br/>
-<sub>— Ralph Johnson</sub><br/>
+<i>"Deleted code is debugged code."</i><br/>
+<sub>— Jeff Sickel</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
 </p>
