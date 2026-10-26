@@ -181,8 +181,8 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 
 <p align="center">
 <samp>
-<i>"Deleted code is debugged code."</i><br/>
-<sub>— Jeff Sickel</sub><br/>
+<i>"If at first you don't succeed, call it version 1.0."</i><br/>
+<sub>— Unknown</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
 </p>
