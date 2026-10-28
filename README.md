@@ -214,5 +214,5 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 
 <p align="center">
   <strong>正在寻找实习、研究合作与有意义的开源协作机会。</strong><br />
-  <sub>如果你对 AI / RL、开发者工具或创意技术感兴趣，欢迎联系我。</sub>
+  <sub>如果你对 AI(SI)、开发者工具或创意技术感兴趣，欢迎联系我。</sub>
 </p>
