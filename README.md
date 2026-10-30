@@ -181,8 +181,8 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 
 <p align="center">
 <samp>
-<i>"A good programmer is someone who always looks both ways before crossing a one-way street."</i><br/>
-<sub>— Doug Linder</sub><br/>
+<i>"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."</i><br/>
+<sub>— Dan Salomon</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
 </p>
