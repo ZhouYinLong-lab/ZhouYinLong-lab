@@ -181,8 +181,8 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 
 <p align="center">
 <samp>
-<i>"The future is already here — it's just not evenly distributed."</i><br/>
-<sub>— William Gibson</sub><br/>
+<i>"Any sufficiently advanced technology is indistinguishable from magic."</i><br/>
+<sub>— Arthur C. Clarke</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
 </p>
