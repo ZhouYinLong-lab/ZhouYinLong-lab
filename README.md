@@ -181,7 +181,7 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 
 <p align="center">
 <samp>
-<i>"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."</i><br/>
+<i>"Intelligence is the ability to avoid doing work, yet getting the work done."</i><br/>
 <sub>— Linus Torvalds</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
