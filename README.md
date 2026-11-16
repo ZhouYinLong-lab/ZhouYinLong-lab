@@ -143,7 +143,7 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 
 <!-- STATS-START -->
 <p align="center">
-<strong>34</strong> 公开仓库 · <strong>107</strong> Public Stars · <strong>3656</strong> 过去一年 Commits · <strong>64</strong> 合并 PR · <strong>20</strong> Followers
+<strong>34</strong> 公开仓库 · <strong>107</strong> Public Stars · <strong>3676</strong> 过去一年 Commits · <strong>64</strong> 合并 PR · <strong>20</strong> Followers
 </p>
 <p align="center"><sub>由 GitHub Actions 每周从 GitHub API 获取并更新</sub></p>
 <!-- STATS-END -->
