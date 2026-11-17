@@ -181,7 +181,7 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 
 <p align="center">
 <samp>
-<i>"Those that can, do. Those that can't, complain."</i><br/>
+<i>"I like offending people, because I think people who get offended should be offended."</i><br/>
 <sub>— Linus Torvalds</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
