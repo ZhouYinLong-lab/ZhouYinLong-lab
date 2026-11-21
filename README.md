@@ -181,7 +181,7 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 
 <p align="center">
 <samp>
-<i>"Don't hurry your code. Make sure it works well and is well designed. Don't worry about timing."</i><br/>
+<i>"Portability is for people who cannot write new programs."</i><br/>
 <sub>— Linus Torvalds</sub><br/>
 <sub><sup>🔄 Updates daily · 每日更新 · Powered by GitHub Actions</sup></sub>
 </samp>
