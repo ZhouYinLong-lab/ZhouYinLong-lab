@@ -91,7 +91,7 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 <table>
 <tr>
 <td width="180" valign="top">
-<a href="https://zylatent.com/blog/%E5%88%80%E9%94%8B-%E4%B9%A6%E8%AF%84/"><img src="https://zylatent.com/img/paintings/manet-a-bar-at-the-folies-bergere.jpg" width="180" alt="Article cover" /></a>
+<a href="https://zylatent.com/blog/%E5%88%80%E9%94%8B-%E4%B9%A6%E8%AF%84/"><img src="https://zylatent.com/img/paintings/manet-a-bar-at-the-folies-bergere.webp" width="180" alt="Article cover" /></a>
 </td>
 <td valign="top">
 <a href="https://zylatent.com/blog/%E5%88%80%E9%94%8B-%E4%B9%A6%E8%AF%84/"><strong>《刀锋》书评——一把刀的锋刃不容易越过</strong></a><br/>
@@ -100,7 +100,7 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 </tr>
 <tr>
 <td width="180" valign="top">
-<a href="https://zylatent.com/blog/%E6%85%A2%E4%B8%8B%E6%9D%A5/"><img src="https://zylatent.com/img/paintings/rembrandt-philosopher-in-meditation.jpg" width="180" alt="Article cover" /></a>
+<a href="https://zylatent.com/blog/%E6%85%A2%E4%B8%8B%E6%9D%A5/"><img src="https://zylatent.com/img/paintings/rembrandt-philosopher-in-meditation.webp" width="180" alt="Article cover" /></a>
 </td>
 <td valign="top">
 <a href="https://zylatent.com/blog/%E6%85%A2%E4%B8%8B%E6%9D%A5/"><strong>慢下来，你其实没有落下什么</strong></a><br/>
@@ -109,7 +109,7 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 </tr>
 <tr>
 <td width="180" valign="top">
-<a href="https://zylatent.com/blog/dog-map/"><img src="https://zylatent.com/img/paintings/hokusai-great-wave-off-kanagawa.jpg" width="180" alt="Article cover" /></a>
+<a href="https://zylatent.com/blog/dog-map/"><img src="https://zylatent.com/img/paintings/hokusai-great-wave-off-kanagawa.webp" width="180" alt="Article cover" /></a>
 </td>
 <td valign="top">
 <a href="https://zylatent.com/blog/dog-map/"><strong>Dog-Map：我给自己做的一张路线地图</strong></a><br/>
