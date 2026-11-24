@@ -91,6 +91,15 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 <table>
 <tr>
 <td width="180" valign="top">
+<a href="https://zylatent.com/blog/%E4%BB%99%E6%9E%97%E4%B8%80%E8%81%9A/"><img src="https://zylatent.com/img/xianlin/787bd2d51a5f656b34b603aca0b66399_720.webp" width="180" alt="Article cover" /></a>
+</td>
+<td valign="top">
+<a href="https://zylatent.com/blog/%E4%BB%99%E6%9E%97%E4%B8%80%E8%81%9A/"><strong>分岔小径上的三小时</strong></a><br/>
+苏州校区住了半学期之后，趁运动会的机会回了一趟仙林，感慨颇多
+</td>
+</tr>
+<tr>
+<td width="180" valign="top">
 <a href="https://zylatent.com/blog/%E5%88%80%E9%94%8B-%E4%B9%A6%E8%AF%84/"><img src="https://zylatent.com/img/paintings/manet-a-bar-at-the-folies-bergere.webp" width="180" alt="Article cover" /></a>
 </td>
 <td valign="top">
@@ -105,15 +114,6 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 <td valign="top">
 <a href="https://zylatent.com/blog/%E6%85%A2%E4%B8%8B%E6%9D%A5/"><strong>慢下来，你其实没有落下什么</strong></a><br/>
 分享科研焦虑与成长感悟，讨论学生科研定位、AI 时代的学术噪音，以及慢科研的可能性。
-</td>
-</tr>
-<tr>
-<td width="180" valign="top">
-<a href="https://zylatent.com/blog/dog-map/"><img src="https://zylatent.com/img/paintings/hokusai-great-wave-off-kanagawa.webp" width="180" alt="Article cover" /></a>
-</td>
-<td valign="top">
-<a href="https://zylatent.com/blog/dog-map/"><strong>Dog-Map：我给自己做的一张路线地图</strong></a><br/>
-记录我如何用一张地图保存去过的地方、走过的路线和留下的照片。
 </td>
 </tr>
 </table>
