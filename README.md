@@ -130,15 +130,6 @@ Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商�
 - [Model Context Protocol #3019](https://github.com/modelcontextprotocol/modelcontextprotocol/pull/3019)：更新 Goose 集成文档链接
 - [Apache HertzBeat #4187](https://github.com/apache/hertzbeat/pull/4187)：跨 16 个文件修正文档与代码注释中的 13 处问题
 
-## 技术版图
-
-| 方向 | 技术与工具 |
-| --- | --- |
-| AI / RL | Python · PyTorch · PyBullet · Jupyter · LLM Applications |
-| Web Engineering | TypeScript · JavaScript · Vue · React · Node.js · Astro |
-| Systems & Creative Coding | C++ · Godot · Linux · Git · PWA |
-| Developer Experience | Claude Code · GitHub Actions · Documentation · Automation |
-
 ## GitHub 数据
 
 <!-- STATS-START -->
