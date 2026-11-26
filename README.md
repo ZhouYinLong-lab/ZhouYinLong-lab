@@ -146,18 +146,6 @@
   <a href="https://github.com/ZhouYinLong-lab/ZhouYinLong-lab/actions"><img src="https://img.shields.io/github/last-commit/ZhouYinLong-lab/ZhouYinLong-lab?label=Profile%20updated&style=flat-square&color=58A6FF" alt="Profile last updated" /></a>
 </p>
 
-### 🧊 3D Contribution Calendar
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZhouYinLong-lab/ZhouYinLong-lab/profile-assets/profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZhouYinLong-lab/ZhouYinLong-lab/profile-assets/profile-3d-contrib/profile-green-animate.svg" />
-    <img src="https://raw.githubusercontent.com/ZhouYinLong-lab/ZhouYinLong-lab/profile-assets/profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub contribution calendar" />
-  </picture>
-</p>
-
-<p align="center"><sub>3D contribution calendar · generated daily by GitHub Actions</sub></p>
-
 <details>
 <summary><strong>每日一句与贡献图</strong></summary>
 
