@@ -91,6 +91,15 @@
 <table>
 <tr>
 <td width="180" valign="top">
+<a href="https://zylatent.com/blog/how-drug-molecules-are-found/"><img src="https://zylatent.com/img/paintings/rembrandt-anatomy-lesson.webp" width="180" alt="Article cover" /></a>
+</td>
+<td valign="top">
+<a href="https://zylatent.com/blog/how-drug-molecules-are-found/"><strong>一种药物分子是怎么找到的？</strong></a><br/>
+从齐多夫定和奈非那韦的真实研发过程出发，拆开筛选、机制验证、结构设计和人工智能药物发现。
+</td>
+</tr>
+<tr>
+<td width="180" valign="top">
 <a href="https://zylatent.com/blog/%E4%BB%99%E6%9E%97%E4%B8%80%E8%81%9A/"><img src="https://zylatent.com/img/xianlin/787bd2d51a5f656b34b603aca0b66399_720.webp" width="180" alt="Article cover" /></a>
 </td>
 <td valign="top">
@@ -105,15 +114,6 @@
 <td valign="top">
 <a href="https://zylatent.com/blog/%E5%88%80%E9%94%8B-%E4%B9%A6%E8%AF%84/"><strong>《刀锋》书评——一把刀的锋刃不容易越过</strong></a><br/>
 读完《刀锋》后，对拉里、伊莎贝尔、格雷、苏菲和埃利奥特几种生活选择的杂谈。
-</td>
-</tr>
-<tr>
-<td width="180" valign="top">
-<a href="https://zylatent.com/blog/%E6%85%A2%E4%B8%8B%E6%9D%A5/"><img src="https://zylatent.com/img/paintings/rembrandt-philosopher-in-meditation.webp" width="180" alt="Article cover" /></a>
-</td>
-<td valign="top">
-<a href="https://zylatent.com/blog/%E6%85%A2%E4%B8%8B%E6%9D%A5/"><strong>慢下来，你其实没有落下什么</strong></a><br/>
-分享科研焦虑与成长感悟，讨论学生科研定位、AI 时代的学术噪音，以及慢科研的可能性。
 </td>
 </tr>
 </table>
