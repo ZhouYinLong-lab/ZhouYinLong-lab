@@ -26,60 +26,60 @@
 <tr>
 <td width="50%">
 
-### 1. [Pocket-World-Model](https://github.com/ZhouYinLong-lab/Pocket-World-Model)
+### 1. [南哪助手 · 新手教程](https://nannahelper.github.io/docs/)
 
-面向 AI / RL 研究的世界模型实验项目，展示 PyTorch 实现、实验设计与评测体系。
+写给初学者的技术教程，按主题组织学习材料，用 MkDocs 构建并自动发布。
 
-`Python` `PyTorch` `Reinforcement Learning` `Evaluation`
+`MkDocs` `技术写作`
 
 </td>
 <td width="50%">
 
-### 2. [my-astro-blog](https://github.com/ZhouYinLong-lab/my-astro-blog)
+### 2. [寒柳别苑 · my-astro-blog](https://zylatent.com)
 
-寒柳别苑，我的数字花园。
+我的数字花园，用 Astro 整理技术笔记、项目记录和日常写作。[博客源码](https://github.com/ZhouYinLong-lab/my-astro-blog)
 
-`Astro` `Blog` `Static Site Generation`
+`Astro` `个人网站`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 3. [nannahelper/docs](https://github.com/nannahelper/docs)
+### 3. [PromptLite-Seg](https://github.com/ZhouYinLong-lab/PromptLite-Seg)
 
-南哪助手面向初学者的零到一技术文档，覆盖 20+ 个主题，使用 MkDocs 构建并通过 GitHub Actions 自动发布。
+在 PASCAL VOC 2012 的 1,449 张验证图像上，比较点提示和框提示的误差如何影响分割结果。
 
-`MkDocs` `Documentation` `Tutorial` `CI/CD`
+`计算机视觉` `SAM`
 
 </td>
 <td width="50%">
 
 ### 4. [OhMyStyle](https://github.com/ZhouYinLong-lab/OhMyStyle)
 
-生成式 AI 视觉内容工程，结合 Prompt 编译、质量检查、风格系统与大型内容数据规范。
+把视觉参考整理成结构化风格包，按模型编译生成图像所用的提示词。
 
-`Generative AI` `Prompt Engineering` `Visual Systems` `Content Engineering`
+`生成式 AI` `提示词编译`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 5. [Dog-Skills](https://github.com/ZhouYinLong-lab/Dog-Skills)
+### 5. [Latent-Garden](https://github.com/ZhouYinLong-lab/Latent-Garden)
 
-Claude Code Skills 工具生态，覆盖开发、设计、写作、学习、商业与健康等场景，并持续维护开源社区。
+用 Embedding 和 UMAP 把文章投影到可探索的语义地图，寒柳别苑是它的首个案例。
 
-`Claude Code` `AI Tools` `Open Source` `Automation`
+`Embedding` `UMAP`
 
 </td>
 <td width="50%">
 
-### 6. [HuaiHai-h5-map](https://github.com/ZhouYinLong-lab/HuaiHai-h5-map)
+### 6. [NJU_GuLou_Campus](https://github.com/ZhouYinLong-lab/NJU_GuLou_Campus)
 
-淮海战役交互地图，以时间线与历史节点结合 TypeScript、地图可视化和移动端交互叙事。
+南京大学鼓楼校园的开源三维模型，提供可编辑的 Blender 场景、建模脚本和离线查看器。
 
-`TypeScript` `Interactive Storytelling` `Map Visualization` `PWA`
+`Blender` `GLB`
 
 </td>
 </tr>
