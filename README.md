@@ -91,6 +91,15 @@
 <table>
 <tr>
 <td width="180" valign="top">
+<a href="https://zylatent.com/blog/%E8%AE%B0%E5%BD%95%E5%B9%B3%E5%B8%B8%E4%B8%80%E5%A4%A9/"><img src="https://zylatent.com/img/ordinary-day/riverside.webp" width="180" alt="Article cover" /></a>
+</td>
+<td valign="top">
+<a href="https://zylatent.com/blog/%E8%AE%B0%E5%BD%95%E5%B9%B3%E5%B8%B8%E4%B8%80%E5%A4%A9/"><strong>记录平常一天</strong></a><br/>
+从掌心的一抹殷红，到河岸金黄的银杏与暮色里的喜庆拱门，记一次狼狈却明亮的出行。
+</td>
+</tr>
+<tr>
+<td width="180" valign="top">
 <a href="https://zylatent.com/blog/how-drug-molecules-are-found/"><img src="https://zylatent.com/img/paintings/rembrandt-anatomy-lesson.webp" width="180" alt="Article cover" /></a>
 </td>
 <td valign="top">
@@ -105,15 +114,6 @@
 <td valign="top">
 <a href="https://zylatent.com/blog/%E4%BB%99%E6%9E%97%E4%B8%80%E8%81%9A/"><strong>分岔小径上的三小时</strong></a><br/>
 苏州校区住了半学期之后，趁运动会的机会回了一趟仙林，感慨颇多
-</td>
-</tr>
-<tr>
-<td width="180" valign="top">
-<a href="https://zylatent.com/blog/%E5%88%80%E9%94%8B-%E4%B9%A6%E8%AF%84/"><img src="https://zylatent.com/img/paintings/manet-a-bar-at-the-folies-bergere.webp" width="180" alt="Article cover" /></a>
-</td>
-<td valign="top">
-<a href="https://zylatent.com/blog/%E5%88%80%E9%94%8B-%E4%B9%A6%E8%AF%84/"><strong>《刀锋》书评——一把刀的锋刃不容易越过</strong></a><br/>
-读完《刀锋》后，对拉里、伊莎贝尔、格雷、苏菲和埃利奥特几种生活选择的杂谈。
 </td>
 </tr>
 </table>
